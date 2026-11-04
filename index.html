@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Mosaic Engine · Instagram report</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#overview"><span class="mark"><b></b><b></b><b></b><b></b></span>mosaic engine</a>
+    <nav id="nav">
+      <a href="#overview">Overview</a>
+      <a href="#reels">Reels</a>
+      <a href="#fix">What to fix</a>
+      <a href="#trending">Trending</a>
+      <a href="#next">Next reels</a>
+      <a href="#tips">Tips</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="overview" class="hero">
+    <p class="eyebrow">Instagram report · <span id="handle"></span></p>
+    <h1>How your reels are doing, <span class="or">and what to change.</span></h1>
+    <p class="muted" id="updated"></p>
+    <div class="kpis" id="kpis"></div>
+  </section>
+
+  <section id="reels">
+    <h2>Your reels</h2>
+    <p class="muted">Past 3 s is how many viewers stayed past the first 3 seconds, which is the hook test. Watched is the average watch time against the reel's length.</p>
+    <div class="reels" id="reelList"></div>
+  </section>
+
+  <section id="fix">
+    <h2>What's wrong and how we fix it</h2>
+    <div class="good" id="good"></div>
+    <div class="issues" id="issues"></div>
+    <div class="note" id="bestTime"></div>
+  </section>
+
+  <section id="trending">
+    <h2>Trending in your niche</h2>
+    <p class="muted" id="trendNote"></p>
+    <div class="trend" id="trendList"></div>
+  </section>
+
+  <section id="next">
+    <h2>Next reels to make</h2>
+    <div class="next" id="nextList"></div>
+  </section>
+
+  <section id="tips">
+    <h2>Tips for a new page</h2>
+    <div class="tips" id="tipList"></div>
+  </section>
+</main>
+
+<footer class="wrap foot">Data from Metricool and YouTube, refreshed by Claude. Mosaic Engine · We build what your business runs on.</footer>
+
+<script src="data/report.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
