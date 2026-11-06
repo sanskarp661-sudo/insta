@@ -1,20 +1,58 @@
 window.REPORT = {
- "updated": "2026-11-05T20:44+05:30",
+ "updated": "2026-11-06T08:41+05:30",
  "account": {
   "handle": "mosaicengine",
-  "followers": 13,
-  "following": 0,
-  "reels": 5
+  "followers": 14,
+  "following": 1,
+  "reels": 7
  },
  "totals": {
-  "views": 923,
-  "reach": 739,
-  "likes": 50,
+  "views": 1141,
+  "reach": 915,
+  "likes": 56,
   "comments": 0,
-  "saves": 3,
-  "shares": 24
+  "saves": 4,
+  "shares": 27
  },
  "reels": [
+  {
+   "key": "DfXNPZplZOQ",
+   "title": "Sleep Tax",
+   "url": "https://www.instagram.com/reel/DfXNPZplZOQ/",
+   "posted": "2026-11-05T14:06",
+   "thumb": "img/reels/DfXNPZplZOQ.jpg",
+   "duration": 35.5,
+   "caption": "Raat 11 baje: \"Bhaiya, price kya hai?\" 📱",
+   "verdict": "Best hook and watch time",
+   "note": "38.7% got past 3 seconds and people watched 10.8 s of 35.5 s (31%), the best of all seven reels. Judge again at 48 hours.",
+   "views": 123,
+   "reach": 101,
+   "likes": 3,
+   "comments": 0,
+   "saves": 1,
+   "shares": 1,
+   "avgWatch": 10.8,
+   "past3s": 38.7
+  },
+  {
+   "key": "DfWO82Fkucv",
+   "title": "Owner ya sales team ka supplier?",
+   "url": "https://www.instagram.com/reel/DfWO82Fkucv/",
+   "posted": "2026-11-05T05:02",
+   "thumb": "",
+   "duration": 30.0,
+   "caption": "Aap business ke owner ho, ya apni sales team ke supplier? 🚩",
+   "verdict": "Weakest start",
+   "note": "Only 14.3% got past 3 seconds and 40 views in the first day, the lowest so far. It went up the same day as Sleep Tax, which took the reach. Judge again at 48 hours.",
+   "views": 40,
+   "reach": 33,
+   "likes": 3,
+   "comments": 0,
+   "saves": 0,
+   "shares": 2,
+   "avgWatch": 5.4,
+   "past3s": 14.3
+  },
   {
    "key": "DfU1nYaIDPh",
    "title": "Excel free hai, lekin mehenga",
@@ -24,15 +62,15 @@ window.REPORT = {
    "duration": 46.4,
    "caption": "Hisaab tally hua? Nahi. Neend aayi? Woh bhi nahi. 😮‍💨",
    "verdict": "Weak hook, no shares",
-   "note": "Only 19.1% got past 3 seconds and people watched 5.4 s of 46 s (12%). No shares yet: a tool-vs-tool topic is less sendable than a relatable owner moment. Judge again at 48 hours.",
-   "views": 151,
-   "reach": 129,
+   "note": "Only 22.5% got past 3 seconds and people watched 5.7 s of 46 s (12%). No shares yet: a tool-vs-tool topic is less sendable than a relatable owner moment. Judge again at 48 hours.",
+   "views": 172,
+   "reach": 146,
    "likes": 6,
    "comments": 0,
    "saves": 1,
    "shares": 0,
-   "avgWatch": 5.4,
-   "past3s": 19.1
+   "avgWatch": 5.7,
+   "past3s": 22.5
   },
   {
    "key": "owner-ka-phone",
@@ -41,17 +79,17 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfTtGX5oI7h/",
    "thumb": "img/reels/owner-ka-phone.jpg",
    "duration": 45.5,
-   "views": 256,
-   "reach": 215,
+   "views": 276,
+   "reach": 232,
    "likes": 6,
    "comments": 0,
    "saves": 1,
    "shares": 4,
-   "avgWatch": 8.5,
-   "past3s": 38.3,
+   "avgWatch": 8.0,
+   "past3s": 36.8,
    "caption": "Family: \"Thoda phone side mein rakho.\" Owner: \"Bas ek minute... ek order aaya hai.\"",
-   "verdict": "Best hook so far",
-   "note": "38.3% got past 3 seconds, still the best of the five, and the most views now (256). The relatable dialogue opening works."
+   "verdict": "Strong hook",
+   "note": "36.8% got past 3 seconds, just behind Sleep Tax, and 276 views. The relatable dialogue opening works."
   },
   {
    "key": "staff-ya-system",
@@ -60,17 +98,17 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfR6-44oNyp/",
    "thumb": "img/reels/staff-ya-system.jpg",
    "duration": 45.8,
-   "views": 146,
-   "reach": 120,
+   "views": 151,
+   "reach": 122,
    "likes": 11,
    "comments": 0,
    "saves": 0,
    "shares": 2,
-   "avgWatch": 6.4,
-   "past3s": 31.0,
+   "avgWatch": 6.2,
+   "past3s": 29.9,
    "caption": "Agar aapke bina business ek din bhi nahi chalta, toh woh business nahi, naukri hai.",
    "verdict": "Weakest watch time",
-   "note": "People watched 6.4 s of 45.8 s (14%). Most likes per view, but no shares or saves: people agreed, but it gave them no reason to send it on."
+   "note": "People watched 6.2 s of 45.8 s (14%). Most likes per view, but no shares or saves: people agreed, but it gave them no reason to send it on."
   },
   {
    "key": "customer-loss",
@@ -79,14 +117,14 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfRLRaYoUgL/",
    "thumb": "img/reels/customer-loss.jpg",
    "duration": 51.4,
-   "views": 85,
-   "reach": 67,
+   "views": 91,
+   "reach": 71,
    "likes": 12,
    "comments": 0,
    "saves": 0,
    "shares": 5,
-   "avgWatch": 6.7,
-   "past3s": 31.3,
+   "avgWatch": 6.2,
+   "past3s": 30.1,
    "caption": "Lead aaya, reply 6 ghante baad, aur customer competitor ke paas chala gaya.",
    "verdict": "Lowest reach",
    "note": "Longest reel (51 s) and the lowest reach. Posted 7 hours before Staff ya system on the same day, so the two competed for the same followers."
@@ -98,17 +136,17 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfPzlpwzlYg/",
    "thumb": "img/reels/brand-reveal.jpg",
    "duration": 22.0,
-   "views": 285,
-   "reach": 208,
+   "views": 288,
+   "reach": 210,
    "likes": 15,
    "comments": 0,
    "saves": 1,
    "shares": 13,
    "avgWatch": 4.6,
-   "past3s": 17.1,
+   "past3s": 16.9,
    "caption": "Bikhre tukde, ek engine. Hum aapka poora business ek system mein jodte hain.",
    "verdict": "Most shares, weakest hook",
-   "note": "Most shares (13), mostly from your own first-day sharing. Only 17.1% stayed past 3 seconds: a logo-style intro doesn't stop strangers."
+   "note": "Most shares (13), mostly from your own first-day sharing. Only 16.9% stayed past 3 seconds: a logo-style intro doesn't stop strangers."
   }
  ],
  "daily": [
@@ -119,57 +157,62 @@ window.REPORT = {
   },
   {
    "d": "2026-11-03",
-   "views": 421,
+   "views": 287,
    "reach": 191
   },
   {
    "d": "2026-11-04",
-   "views": 421,
-   "reach": 294
+   "views": 172,
+   "reach": 321
+  },
+  {
+   "d": "2026-11-05",
+   "views": 172,
+   "reach": 126
   }
  ],
  "wrong": [
   {
    "sev": "high",
    "title": "Most people swipe away in the first 3 seconds",
-   "data": "Only 17.1% to 38.3% of viewers got past 3 seconds.",
-   "fix": "Open on the problem moment, never a logo or setup. Big readable text in frame 1, and the first spoken line under 2 seconds. Copy what Owner ka phone did (38.3%), which is the best."
+   "data": "Only 14.3% to 38.7% of viewers got past 3 seconds.",
+   "fix": "Open on the problem moment, never a logo or setup. Big readable text in frame 1, and the first spoken line under 2 seconds. Copy what Sleep Tax (38.7%) and Owner ka phone (36.8%) did, which are the best."
   },
   {
    "sev": "high",
    "title": "The reels are too long for a new page",
-   "data": "People watch 4.6 to 8.5 seconds of 22 to 51 second reels (12% to 21%).",
+   "data": "People watch 4.6 to 10.8 seconds of 22 to 51 second reels (12% to 31%). Sleep Tax, at 35 s, holds best.",
    "fix": "Make the next reels 15 to 25 seconds, with one idea per reel and a twist every 3 to 4 seconds. Keep longer reels for when watch time is above 50%."
   },
   {
    "sev": "medium",
    "title": "No comments at all",
-   "data": "0 comments on 5 reels.",
+   "data": "0 comments on 7 reels.",
    "fix": "Ask an easy A-or-B question in the video itself ('Aap kaunse owner ho, A ya B?'), not only in the caption, and pin a comment that answers first."
   },
   {
    "sev": "medium",
    "title": "Almost no saves",
-   "data": "3 saves on 923 views.",
+   "data": "4 saves on 1,141 views.",
    "fix": "One 'useful' reel a week: a checklist or '3 free tools' with the list on screen long enough to want to save it."
   },
   {
    "sev": "medium",
    "title": "Two reels on the same day",
-   "data": "Customer-loss and Staff ya system went up 7 hours apart on 3 Nov. The first one got the lowest reach.",
+   "data": "Two reels went up on the same day on 3 Nov and again on 5 Nov. Each time one of them got the lowest reach (Customer-loss 71, the supplier reel 33).",
    "fix": "One reel a day at most, 4 to 5 a week, at a fixed time. Use Trial Reels to test hooks on non-followers first."
   },
   {
    "sev": "low",
    "title": "Too few followers for the algorithm to test with",
-   "data": "13 followers, following 0.",
+   "data": "14 followers, following 1.",
    "fix": "Collab posts with local business pages, 10 minutes a day in niche comments, and a pinned 'start here' reel."
   }
  ],
  "good": [
-  "Shares are strong: 24 shares on 923 views (2.6%). The 'kisi owner ko bhejo' ask works, so keep it.",
-  "Owner ka phone, the relatable non-selling reel, has the best hook, the best watch time and now the most views. More of this.",
-  "The real brand look is consistent across all 5 reels, so the grid already looks like one brand."
+  "Shares are strong: 27 shares on 1,141 views (2.4%). The 'kisi owner ko bhejo' ask works, so keep it.",
+  "The relatable owner-moment reels (Sleep Tax, Owner ka phone) have the best hooks and the best watch time. More of this.",
+  "The real brand look is consistent across all 7 reels, so the grid already looks like one brand."
  ],
  "tips": [
   {
