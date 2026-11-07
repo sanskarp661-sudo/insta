@@ -17,14 +17,14 @@ window.REPORT = {
  "reels": [
   {
    "key": "DfZx7D7mdDV",
-   "title": "Fees maangi toh member naraz. Na maangi toh gym ka nuksaan. ",
+   "title": "Gym fees: trainer ki jeb mein?",
    "url": "https://www.instagram.com/reel/DfZx7D7mdDV/",
    "posted": "2026-11-06T14:05",
-   "thumb": "",
-   "duration": 30.0,
+   "thumb": "img/reels/DfZx7D7mdDV.jpg",
+   "duration": 33.4,
    "caption": "Fees maangi toh member naraz. Na maangi toh gym ka nuksaan. 😶",
-   "verdict": "New",
-   "note": "New reel, numbers still coming in.",
+   "verdict": "Too early",
+   "note": "Only 16 views so far: it went up at 7:35 pm, the third reel that day. 28.6% got past 3 seconds. Judge again at 48 hours.",
    "views": 16,
    "reach": 13,
    "likes": 1,
@@ -36,14 +36,14 @@ window.REPORT = {
   },
   {
    "key": "DfYwU1rCTg7",
-   "title": "Owner banne nikle the. Clerk ban gaye. 🥲",
+   "title": "Data entry clerk",
    "url": "https://www.instagram.com/reel/DfYwU1rCTg7/",
    "posted": "2026-11-06T04:32",
-   "thumb": "",
-   "duration": 30.0,
+   "thumb": "img/reels/DfYwU1rCTg7.jpg",
+   "duration": 34.0,
    "caption": "Owner banne nikle the. Clerk ban gaye. 🥲",
-   "verdict": "New",
-   "note": "New reel, numbers still coming in.",
+   "verdict": "Weak hook",
+   "note": "125 views, but only 18.9% got past 3 seconds and people watched 4.6 s of 34 s (13%). No shares or saves yet. Judge again at 48 hours.",
    "views": 125,
    "reach": 107,
    "likes": 1,
@@ -55,14 +55,14 @@ window.REPORT = {
   },
   {
    "key": "DfYU6n6k049",
-   "title": "Dukaan saaf, diya jala, rangoli bani... bas register abhi bh",
+   "title": "Dhanteras",
    "url": "https://www.instagram.com/reel/DfYU6n6k049/",
    "posted": "2026-11-06T00:33",
-   "thumb": "",
-   "duration": 30.0,
+   "thumb": "img/reels/DfYU6n6k049.jpg",
+   "duration": 28.3,
    "caption": "Dukaan saaf, diya jala, rangoli bani... bas register abhi bhi 2015 wala 😅",
-   "verdict": "New",
-   "note": "New reel, numbers still coming in.",
+   "verdict": "Low watch time",
+   "note": "132 views from the festival timing, but people watched only 3.9 s of 28 s (14%), the lowest of all reels, and no shares.",
    "views": 132,
    "reach": 118,
    "likes": 2,
@@ -81,7 +81,7 @@ window.REPORT = {
    "duration": 35.5,
    "caption": "Raat 11 baje: \"Bhaiya, price kya hai?\" 📱",
    "verdict": "Best hook and watch time",
-   "note": "38.7% got past 3 seconds and people watched 10.8 s of 35.5 s (31%), the best of all seven reels. Judge again at 48 hours.",
+   "note": "40.2% got past 3 seconds and people watched 11 s of 35.5 s (31%), still the best of all ten reels.",
    "views": 131,
    "reach": 109,
    "likes": 4,
@@ -100,7 +100,7 @@ window.REPORT = {
    "duration": 30.0,
    "caption": "Aap business ke owner ho, ya apni sales team ke supplier? 🚩",
    "verdict": "Weakest start",
-   "note": "Only 14.3% got past 3 seconds and 40 views in the first day, the lowest so far. It went up the same day as Sleep Tax, which took the reach. Judge again at 48 hours.",
+   "note": "15.2% got past 3 seconds, the lowest of all reels, and 55 views. It went up the same day as Sleep Tax, which took the reach.",
    "views": 55,
    "reach": 44,
    "likes": 4,
@@ -119,7 +119,7 @@ window.REPORT = {
    "duration": 46.4,
    "caption": "Hisaab tally hua? Nahi. Neend aayi? Woh bhi nahi. 😮‍💨",
    "verdict": "Weak hook, no shares",
-   "note": "Only 22.5% got past 3 seconds and people watched 5.7 s of 46 s (12%). No shares yet: a tool-vs-tool topic is less sendable than a relatable owner moment. Judge again at 48 hours.",
+   "note": "Only 21.8% got past 3 seconds and people watched 5.5 s of 46 s (12%). Still no shares: a tool-vs-tool topic is less sendable than a relatable owner moment.",
    "views": 182,
    "reach": 151,
    "likes": 7,
@@ -146,7 +146,7 @@ window.REPORT = {
    "past3s": 36.3,
    "caption": "Family: \"Thoda phone side mein rakho.\" Owner: \"Bas ek minute... ek order aaya hai.\"",
    "verdict": "Strong hook",
-   "note": "36.8% got past 3 seconds, just behind Sleep Tax, and 276 views. The relatable dialogue opening works."
+   "note": "36.3% got past 3 seconds, second only to Sleep Tax, and 284 views, the second most. The relatable dialogue opening works."
   },
   {
    "key": "staff-ya-system",
@@ -165,7 +165,7 @@ window.REPORT = {
    "past3s": 29.0,
    "caption": "Agar aapke bina business ek din bhi nahi chalta, toh woh business nahi, naukri hai.",
    "verdict": "Weakest watch time",
-   "note": "People watched 6.2 s of 45.8 s (14%). Most likes per view, but no shares or saves: people agreed, but it gave them no reason to send it on."
+   "note": "People watched 6.1 s of 45.8 s (13%). Most likes per view, but no saves: people agreed, but it gave them little reason to send it on."
   },
   {
    "key": "customer-loss",
@@ -237,44 +237,44 @@ window.REPORT = {
   {
    "sev": "high",
    "title": "Most people swipe away in the first 3 seconds",
-   "data": "Only 14.3% to 38.7% of viewers got past 3 seconds.",
-   "fix": "Open on the problem moment, never a logo or setup. Big readable text in frame 1, and the first spoken line under 2 seconds. Copy what Sleep Tax (38.7%) and Owner ka phone (36.8%) did, which are the best."
+   "data": "Only 15.2% to 40.2% of viewers got past 3 seconds. The three newest reels sit at 19% to 29%.",
+   "fix": "Open on the problem moment, never a logo or setup. Big readable text in frame 1, and the first spoken line under 2 seconds. Copy what Sleep Tax (40.2%) and Owner ka phone (36.3%) did, which are the best."
   },
   {
    "sev": "high",
    "title": "The reels are too long for a new page",
-   "data": "People watch 4.6 to 10.8 seconds of 22 to 51 second reels (12% to 31%). Sleep Tax, at 35 s, holds best.",
+   "data": "People watch 3.9 to 11 seconds of 22 to 51 second reels (12% to 31%). Sleep Tax, at 35 s, holds best.",
    "fix": "Make the next reels 15 to 25 seconds, with one idea per reel and a twist every 3 to 4 seconds. Keep longer reels for when watch time is above 50%."
   },
   {
    "sev": "medium",
    "title": "No comments at all",
-   "data": "0 comments on 7 reels.",
+   "data": "0 comments on 10 reels.",
    "fix": "Ask an easy A-or-B question in the video itself ('Aap kaunse owner ho, A ya B?'), not only in the caption, and pin a comment that answers first."
   },
   {
    "sev": "medium",
    "title": "Almost no saves",
-   "data": "4 saves on 1,141 views.",
+   "data": "4 saves on 1,476 views, and none on the three newest reels.",
    "fix": "One 'useful' reel a week: a checklist or '3 free tools' with the list on screen long enough to want to save it."
   },
   {
    "sev": "medium",
-   "title": "Two reels on the same day",
-   "data": "Two reels went up on the same day on 3 Nov and again on 5 Nov. Each time one of them got the lowest reach (Customer-loss 71, the supplier reel 33).",
+   "title": "Too many reels on the same day",
+   "data": "Two reels went up on 3 Nov and 5 Nov, and three on 6 Nov (Dhanteras, Data entry clerk, Gym fees). The late one each day gets the least reach: Gym fees has only 16 views.",
    "fix": "One reel a day at most, 4 to 5 a week, at a fixed time. Use Trial Reels to test hooks on non-followers first."
   },
   {
    "sev": "low",
    "title": "Too few followers for the algorithm to test with",
-   "data": "14 followers, following 1.",
+   "data": "16 followers, following 0.",
    "fix": "Collab posts with local business pages, 10 minutes a day in niche comments, and a pinned 'start here' reel."
   }
  ],
  "good": [
-  "Shares are strong: 27 shares on 1,141 views (2.4%). The 'kisi owner ko bhejo' ask works, so keep it.",
+  "Shares are good: 27 shares on 1,476 views (1.8%). The 'kisi owner ko bhejo' ask works, but the three newest reels have none yet, so make that ask in the video too.",
   "The relatable owner-moment reels (Sleep Tax, Owner ka phone) have the best hooks and the best watch time. More of this.",
-  "The real brand look is consistent across all 7 reels, so the grid already looks like one brand."
+  "The real brand look is consistent across all 10 reels, so the grid already looks like one brand."
  ],
  "tips": [
   {
