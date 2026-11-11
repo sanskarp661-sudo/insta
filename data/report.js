@@ -1,15 +1,15 @@
 window.REPORT = {
- "updated": "2026-11-11T14:42+05:30",
+ "updated": "2026-11-11T20:46+05:30",
  "account": {
   "handle": "mosaicengine",
-  "followers": 25,
+  "followers": 26,
   "following": 0,
   "reels": 12
  },
  "totals": {
-  "views": 1834,
-  "reach": 1496,
-  "likes": 85,
+  "views": 1847,
+  "reach": 1508,
+  "likes": 89,
   "comments": 0,
   "saves": 5,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 30.8,
    "caption": "Customer ne aapko Google kiya… aur order kisi aur ko chala gaya. 😶",
    "verdict": "Weak start",
-   "note": "First website-only reel. 42 views in its first day, 28.2% got past 3 seconds and people watched 3.2 s of 31 s (10%). No saves or shares yet: the opening needs a stronger first line.",
-   "views": 42,
-   "reach": 36,
+   "note": "First website-only reel. 49 views after a day, 26.7% got past 3 seconds and people watched 3.7 s of 31 s (12%). No saves or shares yet: the opening needs a stronger first line.",
+   "views": 49,
+   "reach": 43,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 3.2,
-   "past3s": 28.2
+   "avgWatch": 3.7,
+   "past3s": 26.7
   },
   {
    "key": "DfbVCFCAvTv",
@@ -44,14 +44,14 @@ window.REPORT = {
    "caption": "Bridal client ko \"aap thoda wait karoge?\" bolna = salon owner ka sabse bura sapna 😶",
    "verdict": "Best hook so far",
    "note": "45.5% got past 3 seconds, still the best of all 12 reels, and people watched 10.3 s of 37 s (28%). 200 views, 1 save and 1 share.",
-   "views": 200,
-   "reach": 170,
-   "likes": 6,
+   "views": 201,
+   "reach": 171,
+   "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 1,
    "avgWatch": 10.3,
-   "past3s": 45.5
+   "past3s": 45.2
   },
   {
    "key": "DfZx7D7mdDV",
@@ -63,14 +63,14 @@ window.REPORT = {
    "caption": "Fees maangi toh member naraz. Na maangi toh gym ka nuksaan. 😶",
    "verdict": "Low reach, weak hook",
    "note": "67 views after a day and a half: it went up at 7:35 pm, the third reel that day. 25.8% got past 3 seconds and people watched 4.4 s of 33 s (13%). No shares or saves.",
-   "views": 67,
-   "reach": 60,
-   "likes": 2,
+   "views": 69,
+   "reach": 61,
+   "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 4.4,
-   "past3s": 25.8
+   "past3s": 27.0
   },
   {
    "key": "DfYwU1rCTg7",
@@ -82,14 +82,14 @@ window.REPORT = {
    "caption": "Owner banne nikle the. Clerk ban gaye. 🥲",
    "verdict": "Weak hook",
    "note": "130 views, but only 18.1% got past 3 seconds and people watched 4.5 s of 34 s (13%). No shares or saves after two days.",
-   "views": 130,
-   "reach": 113,
-   "likes": 4,
+   "views": 131,
+   "reach": 114,
+   "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.4,
-   "past3s": 18.1
+   "avgWatch": 4.6,
+   "past3s": 18.8
   },
   {
    "key": "DfYU6n6k049",
@@ -101,14 +101,14 @@ window.REPORT = {
    "caption": "Dukaan saaf, diya jala, rangoli bani... bas register abhi bhi 2015 wala 😅",
    "verdict": "Low watch time",
    "note": "140 views from the festival timing, but people watched only 4.6 s of 28 s (17%), and no shares.",
-   "views": 145,
-   "reach": 126,
-   "likes": 4,
+   "views": 146,
+   "reach": 127,
+   "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.9,
-   "past3s": 25.2
+   "avgWatch": 4.8,
+   "past3s": 25.0
   },
   {
    "key": "DfXNPZplZOQ",
@@ -199,7 +199,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 2,
-   "avgWatch": 6.3,
+   "avgWatch": 6.2,
    "past3s": 29.4,
    "caption": "Agar aapke bina business ek din bhi nahi chalta, toh woh business nahi, naukri hai.",
    "verdict": "Weakest watch time",
@@ -218,7 +218,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 5,
-   "avgWatch": 6.4,
+   "avgWatch": 6.5,
    "past3s": 27.0,
    "caption": "Lead aaya, reply 6 ghante baad, aur customer competitor ke paas chala gaya.",
    "verdict": "Lowest reach",
@@ -231,14 +231,14 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfPzlpwzlYg/",
    "thumb": "img/reels/brand-reveal.jpg",
    "duration": 22.0,
-   "views": 305,
-   "reach": 221,
+   "views": 306,
+   "reach": 222,
    "likes": 17,
    "comments": 0,
    "saves": 1,
    "shares": 13,
-   "avgWatch": 4.8,
-   "past3s": 18.1,
+   "avgWatch": 4.9,
+   "past3s": 18.0,
    "caption": "Bikhre tukde, ek engine. Hum aapka poora business ek system mein jodte hain.",
    "verdict": "Most shares, weakest hook",
    "note": "Most shares (13), mostly from your own first-day sharing. Only 17.9% stayed past 3 seconds: a logo-style intro doesn't stop strangers."
@@ -287,16 +287,21 @@ window.REPORT = {
   },
   {
    "d": "2026-11-10",
-   "views": 43,
-   "reach": 39
+   "views": 49,
+   "reach": 44
+  },
+  {
+   "d": "2026-11-11",
+   "views": 27,
+   "reach": 9
   }
  ],
  "wrong": [
   {
    "sev": "high",
    "title": "Most people swipe away in the first 3 seconds",
-   "data": "Only 14.9% to 41.9% of viewers got past 3 seconds. Data entry clerk, Dhanteras and Gym fees sit at 19% to 26%, but the new Salon reel reached 41.9%.",
-   "fix": "Open on the problem moment, never a logo or setup. Big readable text in frame 1, and the first spoken line under 2 seconds. Copy what Salon (41.9%), Sleep Tax (39.8%) and Owner ka phone (36.3%) did, which are the best."
+   "data": "Only 15.4% to 45.2% of viewers got past 3 seconds. Data entry clerk, Dhanteras and Gym fees sit at 19% to 27%, but the Salon reel reached 45.2%.",
+   "fix": "Open on the problem moment, never a logo or setup. Big readable text in frame 1, and the first spoken line under 2 seconds. Copy what Salon (45.2%), Sleep Tax (39.1%) and Owner ka phone (36.1%) did, which are the best."
   },
   {
    "sev": "high",
@@ -313,24 +318,24 @@ window.REPORT = {
   {
    "sev": "medium",
    "title": "Almost no saves",
-   "data": "5 saves on 1,720 views. Salon got 1; Data entry clerk, Dhanteras and Gym fees got none.",
+   "data": "5 saves on 1,847 views. Salon got 1; Data entry clerk, Dhanteras, Gym fees and the Website reel got none.",
    "fix": "One 'useful' reel a week: a checklist or '3 free tools' with the list on screen long enough to want to save it."
   },
   {
    "sev": "medium",
    "title": "Too many reels on the same day",
-   "data": "Two reels went up on 3 Nov and 5 Nov, and three on 6 Nov (Dhanteras, Data entry clerk, Gym fees). The late one each day gets the least reach: Gym fees has 67 views, the fewest after Owner ya sales team. Salon, alone on 7 Nov, got 166 in a day.",
+   "data": "Two reels went up on 3 Nov and 5 Nov, and three on 6 Nov (Dhanteras, Data entry clerk, Gym fees). The late one each day gets the least reach: Gym fees has 69 views, the fewest after Owner ya sales team. Salon, alone on 7 Nov, got 166 in a day.",
    "fix": "One reel a day at most, 4 to 5 a week, at a fixed time. Use Trial Reels to test hooks on non-followers first."
   },
   {
    "sev": "low",
    "title": "Too few followers for the algorithm to test with",
-   "data": "24 followers, following 0.",
+   "data": "26 followers, following 0.",
    "fix": "Collab posts with local business pages, 10 minutes a day in niche comments, and a pinned 'start here' reel."
   }
  ],
  "good": [
-  "Shares are good: 27 shares on 1,720 views (1.6%). The 'kisi owner ko bhejo' ask works, but the four newest reels have none yet, so make that ask in the video too.",
+  "Shares are good: 28 shares on 1,847 views (1.5%). The 'kisi owner ko bhejo' ask works, but the five newest reels have at most one each, so make that ask in the video too.",
   "The relatable owner-moment reels (Salon, Sleep Tax, Owner ka phone) have the best hooks and the best watch time. More of this.",
   "The real brand look is consistent across all 12 reels, so the grid already looks like one brand."
  ],
