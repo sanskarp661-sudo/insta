@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-11T06:33+05:30",
+ "updated": "2026-11-11T06:34+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 25,
@@ -307,7 +307,7 @@ window.REPORT = {
   {
    "sev": "medium",
    "title": "No comments at all",
-   "data": "0 comments on 11 reels.",
+   "data": "0 comments on 12 reels.",
    "fix": "Ask an easy A-or-B question in the video itself ('Aap kaunse owner ho, A ya B?'), not only in the caption, and pin a comment that answers first."
   },
   {
@@ -332,7 +332,7 @@ window.REPORT = {
  "good": [
   "Shares are good: 27 shares on 1,720 views (1.6%). The 'kisi owner ko bhejo' ask works, but the four newest reels have none yet, so make that ask in the video too.",
   "The relatable owner-moment reels (Salon, Sleep Tax, Owner ka phone) have the best hooks and the best watch time. More of this.",
-  "The real brand look is consistent across all 11 reels, so the grid already looks like one brand."
+  "The real brand look is consistent across all 12 reels, so the grid already looks like one brand."
  ],
  "tips": [
   {
