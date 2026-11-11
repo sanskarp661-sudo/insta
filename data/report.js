@@ -1,20 +1,39 @@
 window.REPORT = {
- "updated": "2026-11-10T11:46+05:30",
+ "updated": "2026-11-11T06:33+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 25,
   "following": 0,
-  "reels": 11
+  "reels": 12
  },
  "totals": {
-  "views": 1788,
-  "reach": 1455,
-  "likes": 82,
+  "views": 1834,
+  "reach": 1496,
+  "likes": 85,
   "comments": 0,
   "saves": 5,
   "shares": 28
  },
  "reels": [
+  {
+   "key": "Dfjzp64E4jP",
+   "title": "Website bechti hai",
+   "url": "https://www.instagram.com/reel/Dfjzp64E4jP/",
+   "posted": "2026-11-10T11:33",
+   "thumb": "img/reels/Dfjzp64E4jP.jpg",
+   "duration": 30.8,
+   "caption": "Customer ne aapko Google kiya… aur order kisi aur ko chala gaya. 😶",
+   "verdict": "Weak start",
+   "note": "First website-only reel. 42 views in its first day, 28.2% got past 3 seconds and people watched 3.2 s of 31 s (10%). No saves or shares yet: the opening needs a stronger first line.",
+   "views": 42,
+   "reach": 36,
+   "likes": 3,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avgWatch": 3.2,
+   "past3s": 28.2
+  },
   {
    "key": "DfbVCFCAvTv",
    "title": "Salon double booking",
@@ -24,15 +43,15 @@ window.REPORT = {
    "duration": 37.1,
    "caption": "Bridal client ko \"aap thoda wait karoge?\" bolna = salon owner ka sabse bura sapna 😶",
    "verdict": "Best hook so far",
-   "note": "44.8% got past 3 seconds, still the best of all 11 reels, and people watched 10.3 s of 37 s (28%). 195 views, 1 save and its first share.",
-   "views": 199,
-   "reach": 169,
+   "note": "45.5% got past 3 seconds, still the best of all 12 reels, and people watched 10.3 s of 37 s (28%). 200 views, 1 save and 1 share.",
+   "views": 200,
+   "reach": 170,
    "likes": 6,
    "comments": 0,
    "saves": 1,
    "shares": 1,
-   "avgWatch": 10.4,
-   "past3s": 45.7
+   "avgWatch": 10.3,
+   "past3s": 45.5
   },
   {
    "key": "DfZx7D7mdDV",
@@ -62,7 +81,7 @@ window.REPORT = {
    "duration": 34.0,
    "caption": "Owner banne nikle the. Clerk ban gaye. 🥲",
    "verdict": "Weak hook",
-   "note": "126 views, but only 18.7% got past 3 seconds and people watched 4.5 s of 34 s (13%). No shares or saves after two days.",
+   "note": "130 views, but only 18.1% got past 3 seconds and people watched 4.5 s of 34 s (13%). No shares or saves after two days.",
    "views": 130,
    "reach": 113,
    "likes": 4,
@@ -82,14 +101,14 @@ window.REPORT = {
    "caption": "Dukaan saaf, diya jala, rangoli bani... bas register abhi bhi 2015 wala 😅",
    "verdict": "Low watch time",
    "note": "140 views from the festival timing, but people watched only 4.6 s of 28 s (17%), and no shares.",
-   "views": 144,
-   "reach": 125,
+   "views": 145,
+   "reach": 126,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.8,
-   "past3s": 24.6
+   "avgWatch": 4.9,
+   "past3s": 25.2
   },
   {
    "key": "DfXNPZplZOQ",
@@ -102,7 +121,7 @@ window.REPORT = {
    "verdict": "Best watch time",
    "note": "39.8% got past 3 seconds and people watched 10.9 s of 35.5 s (31%), still the best watch time. Only the new Salon reel has a better hook.",
    "views": 134,
-   "reach": 112,
+   "reach": 113,
    "likes": 4,
    "comments": 0,
    "saves": 1,
@@ -119,15 +138,15 @@ window.REPORT = {
    "duration": 30.0,
    "caption": "Aap business ke owner ho, ya apni sales team ke supplier? 🚩",
    "verdict": "Weakest start",
-   "note": "14.9% got past 3 seconds, the lowest of all reels, and 56 views. It went up the same day as Sleep Tax, which took the reach.",
-   "views": 61,
-   "reach": 48,
+   "note": "14.9% got past 3 seconds, the lowest of all reels, and 62 views. It went up the same day as Sleep Tax, which took the reach.",
+   "views": 62,
+   "reach": 49,
    "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 2,
-   "avgWatch": 4.9,
-   "past3s": 15.7
+   "avgWatch": 4.8,
+   "past3s": 15.4
   },
   {
    "key": "DfU1nYaIDPh",
@@ -193,14 +212,14 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfRLRaYoUgL/",
    "thumb": "img/reels/customer-loss.jpg",
    "duration": 51.4,
-   "views": 108,
-   "reach": 83,
+   "views": 109,
+   "reach": 84,
    "likes": 13,
    "comments": 0,
    "saves": 0,
    "shares": 5,
    "avgWatch": 6.4,
-   "past3s": 26.1,
+   "past3s": 27.0,
    "caption": "Lead aaya, reply 6 ghante baad, aur customer competitor ke paas chala gaya.",
    "verdict": "Lowest reach",
    "note": "Longest reel (51 s) and the lowest reach. Posted 7 hours before Staff ya system on the same day, so the two competed for the same followers."
@@ -259,12 +278,17 @@ window.REPORT = {
   {
    "d": "2026-11-08",
    "views": 59,
-   "reach": 6
+   "reach": 26
   },
   {
    "d": "2026-11-09",
-   "views": 12,
-   "reach": 6
+   "views": 14,
+   "reach": 8
+  },
+  {
+   "d": "2026-11-10",
+   "views": 43,
+   "reach": 39
   }
  ],
  "wrong": [
