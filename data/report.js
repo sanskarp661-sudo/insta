@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-12T14:42+05:30",
+ "updated": "2026-11-12T17:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 12
  },
  "totals": {
-  "views": 1847,
-  "reach": 1508,
-  "likes": 89,
+  "views": 1849,
+  "reach": 1510,
+  "likes": 91,
   "comments": 0,
   "saves": 5,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 30.8,
    "caption": "Customer ne aapko Google kiya… aur order kisi aur ko chala gaya. 😶",
    "verdict": "Weak start",
-   "note": "First website-only reel. 49 views after a day, 26.7% got past 3 seconds and people watched 3.7 s of 31 s (12%). No saves or shares yet: the opening needs a stronger first line.",
-   "views": 49,
-   "reach": 43,
-   "likes": 3,
+   "note": "First website-only reel. 50 views after two days, 28.3% got past 3 seconds and people watched 3.7 s of 31 s (12%). No saves or shares yet: the opening needs a stronger first line.",
+   "views": 50,
+   "reach": 44,
+   "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 3.7,
-   "past3s": 26.7
+   "past3s": 28.3
   },
   {
    "key": "DfbVCFCAvTv",
@@ -43,15 +43,15 @@ window.REPORT = {
    "duration": 37.1,
    "caption": "Bridal client ko \"aap thoda wait karoge?\" bolna = salon owner ka sabse bura sapna 😶",
    "verdict": "Best hook so far",
-   "note": "45.5% got past 3 seconds, still the best of all 12 reels, and people watched 10.3 s of 37 s (28%). 200 views, 1 save and 1 share.",
-   "views": 201,
-   "reach": 171,
-   "likes": 7,
+   "note": "45.5% got past 3 seconds, still the best of all 12 reels, and people watched 10.2 s of 37 s (28%). 202 views, 1 save and 1 share.",
+   "views": 202,
+   "reach": 172,
+   "likes": 8,
    "comments": 0,
    "saves": 1,
    "shares": 1,
-   "avgWatch": 10.3,
-   "past3s": 45.2
+   "avgWatch": 10.2,
+   "past3s": 45.5
   },
   {
    "key": "DfZx7D7mdDV",
@@ -297,7 +297,7 @@ window.REPORT = {
   },
   {
    "d": "2026-11-12",
-   "views": 3,
+   "views": 5,
    "reach": 1
   }
  ],
