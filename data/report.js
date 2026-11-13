@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-13T11:42+05:30",
+ "updated": "2026-11-13T14:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -8,7 +8,7 @@ window.REPORT = {
  },
  "totals": {
   "views": 2001,
-  "reach": 1644,
+  "reach": 1645,
   "likes": 95,
   "comments": 0,
   "saves": 5,
@@ -26,7 +26,7 @@ window.REPORT = {
    "verdict": "Good hook, short works",
    "note": "Shortest reel so far (19 s). 148 views in its first day, 42% got past 3 seconds (second best after Salon) and people watched 4.2 s of 19 s (22%). No saves or shares yet.",
    "views": 148,
-   "reach": 131,
+   "reach": 132,
    "likes": 3,
    "comments": 0,
    "saves": 0,
@@ -317,7 +317,7 @@ window.REPORT = {
   {
    "d": "2026-11-12",
    "views": 162,
-   "reach": 132
+   "reach": 133
   }
  ],
  "wrong": [
