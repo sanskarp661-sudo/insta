@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-13T14:42+05:30",
+ "updated": "2026-11-13T20:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 13
  },
  "totals": {
-  "views": 2001,
-  "reach": 1645,
+  "views": 2003,
+  "reach": 1647,
   "likes": 95,
   "comments": 0,
   "saves": 5,
@@ -25,14 +25,14 @@ window.REPORT = {
    "caption": "Raat 11 baje bhi diary ka total match nahi hota? 📒",
    "verdict": "Good hook, short works",
    "note": "Shortest reel so far (19 s). 148 views in its first day, 42% got past 3 seconds (second best after Salon) and people watched 4.2 s of 19 s (22%). No saves or shares yet.",
-   "views": 148,
-   "reach": 132,
+   "views": 149,
+   "reach": 133,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.2,
-   "past3s": 42.0
+   "avgWatch": 4.3,
+   "past3s": 42.4
   },
   {
    "key": "Dfjzp64E4jP",
@@ -139,14 +139,14 @@ window.REPORT = {
    "caption": "Raat 11 baje: \"Bhaiya, price kya hai?\" 📱",
    "verdict": "Best watch time",
    "note": "39.1% got past 3 seconds and people watched 10.7 s of 35.5 s (30%), still the best watch time. Only Salon and the new Purani diary reel have a better hook.",
-   "views": 134,
-   "reach": 113,
+   "views": 135,
+   "reach": 114,
    "likes": 4,
    "comments": 0,
    "saves": 1,
    "shares": 1,
-   "avgWatch": 10.7,
-   "past3s": 39.1
+   "avgWatch": 10.6,
+   "past3s": 38.8
   },
   {
    "key": "DfWO82Fkucv",
