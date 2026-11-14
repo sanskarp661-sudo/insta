@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-14T11:42+05:30",
+ "updated": "2026-11-14T14:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 14
  },
  "totals": {
-  "views": 2126,
-  "reach": 1760,
-  "likes": 100,
+  "views": 2127,
+  "reach": 1763,
+  "likes": 101,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -25,14 +25,14 @@ window.REPORT = {
    "caption": "₹50,000 ka order... tune ya maine? 😱",
    "verdict": "Average hook, first day",
    "note": "119 views so far, 35% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
-   "views": 119,
-   "reach": 111,
-   "likes": 4,
+   "views": 120,
+   "reach": 113,
+   "likes": 5,
    "comments": 0,
    "saves": 1,
    "shares": 0,
    "avgWatch": 5.0,
-   "past3s": 34.8
+   "past3s": 35.4
   },
   {
    "key": "DfpYhuijOnS",
@@ -45,7 +45,7 @@ window.REPORT = {
    "verdict": "Good hook, short works",
    "note": "Shortest reel so far (19 s). 152 views after two days, 42.9% got past 3 seconds (second best after Salon) and people watched 4.3 s of 19 s (23%). No saves or shares yet.",
    "views": 152,
-   "reach": 134,
+   "reach": 135,
    "likes": 4,
    "comments": 0,
    "saves": 0,
@@ -340,8 +340,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-13",
-   "views": 124,
-   "reach": 113
+   "views": 125,
+   "reach": 116
   }
  ],
  "wrong": [
