@@ -1,20 +1,39 @@
 window.REPORT = {
- "updated": "2026-11-13T20:42+05:30",
+ "updated": "2026-11-14T08:43+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
   "following": 0,
-  "reels": 13
+  "reels": 14
  },
  "totals": {
-  "views": 2003,
-  "reach": 1647,
-  "likes": 95,
+  "views": 2122,
+  "reach": 1757,
+  "likes": 99,
   "comments": 0,
-  "saves": 5,
+  "saves": 6,
   "shares": 28
  },
  "reels": [
+  {
+   "key": "Dfr9X1IAL_5",
+   "title": "Order blame: tune ya maine?",
+   "url": "https://www.instagram.com/reel/Dfr9X1IAL_5/",
+   "posted": "2026-11-13T15:32",
+   "thumb": "",
+   "duration": 31.4,
+   "caption": "₹50,000 ka order... tune ya maine? 😱",
+   "verdict": "Average hook, first day",
+   "note": "116 views in its first day, 33% got past 3 seconds (middle of the pack) and people watched 4.9 s of 31 s (16%). 1 save, no shares yet.",
+   "views": 116,
+   "reach": 109,
+   "likes": 3,
+   "comments": 0,
+   "saves": 1,
+   "shares": 0,
+   "avgWatch": 4.9,
+   "past3s": 33.0
+  },
   {
    "key": "DfpYhuijOnS",
    "title": "Purani diary ka nuksaan",
@@ -24,15 +43,15 @@ window.REPORT = {
    "duration": 18.8,
    "caption": "Raat 11 baje bhi diary ka total match nahi hota? 📒",
    "verdict": "Good hook, short works",
-   "note": "Shortest reel so far (19 s). 148 views in its first day, 42% got past 3 seconds (second best after Salon) and people watched 4.2 s of 19 s (22%). No saves or shares yet.",
-   "views": 149,
-   "reach": 133,
-   "likes": 3,
+   "note": "Shortest reel so far (19 s). 152 views after two days, 42.9% got past 3 seconds (second best after Salon) and people watched 4.3 s of 19 s (23%). No saves or shares yet.",
+   "views": 152,
+   "reach": 134,
+   "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 4.3,
-   "past3s": 42.4
+   "past3s": 42.9
   },
   {
    "key": "Dfjzp64E4jP",
@@ -50,7 +69,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 3.7,
+   "avgWatch": 3.6,
    "past3s": 27.7
   },
   {
@@ -62,7 +81,7 @@ window.REPORT = {
    "duration": 37.1,
    "caption": "Bridal client ko \"aap thoda wait karoge?\" bolna = salon owner ka sabse bura sapna 😶",
    "verdict": "Best hook so far",
-   "note": "45.5% got past 3 seconds, still the best of all 13 reels, and people watched 10.2 s of 37 s (28%). 202 views, 1 save and 1 share.",
+   "note": "45.5% got past 3 seconds, still the best of all 14 reels, and people watched 10.2 s of 37 s (28%). 202 views, 1 save and 1 share.",
    "views": 202,
    "reach": 172,
    "likes": 8,
@@ -145,7 +164,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 1,
    "shares": 1,
-   "avgWatch": 10.6,
+   "avgWatch": 10.5,
    "past3s": 38.8
   },
   {
@@ -164,7 +183,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 2,
-   "avgWatch": 4.8,
+   "avgWatch": 4.7,
    "past3s": 15.4
   },
   {
@@ -316,8 +335,13 @@ window.REPORT = {
   },
   {
    "d": "2026-11-12",
-   "views": 162,
-   "reach": 133
+   "views": 163,
+   "reach": 134
+  },
+  {
+   "d": "2026-11-13",
+   "views": 120,
+   "reach": 110
   }
  ],
  "wrong": [
@@ -336,19 +360,19 @@ window.REPORT = {
   {
    "sev": "medium",
    "title": "No comments at all",
-   "data": "0 comments on 13 reels.",
+   "data": "0 comments on 14 reels.",
    "fix": "Ask an easy A-or-B question in the video itself ('Aap kaunse owner ho, A ya B?'), not only in the caption, and pin a comment that answers first."
   },
   {
    "sev": "medium",
    "title": "Almost no saves",
-   "data": "5 saves on 2,001 views. Salon got 1; Data entry clerk, Dhanteras, Gym fees, the Website reel and Purani diary got none.",
+   "data": "6 saves on 2,122 views. Salon and the new Order blame reel got 1 each; Data entry clerk, Dhanteras, Gym fees, the Website reel and Purani diary got none.",
    "fix": "One 'useful' reel a week: a checklist or '3 free tools' with the list on screen long enough to want to save it."
   },
   {
    "sev": "medium",
    "title": "Too many reels on the same day",
-   "data": "Two reels went up on 3 Nov and 5 Nov, and three on 6 Nov (Dhanteras, Data entry clerk, Gym fees). The late one each day gets the least reach: Gym fees has 69 views, the fewest after Owner ya sales team. Salon, alone on 7 Nov, got 166 in a day.",
+   "data": "Two reels went up on 3 Nov and 5 Nov, and three on 6 Nov (Dhanteras, Data entry clerk, Gym fees). The late one each day gets the least reach: Gym fees has 70 views, the fewest after Owner ya sales team. Salon, alone on 7 Nov, got 166 in a day.",
    "fix": "One reel a day at most, 4 to 5 a week, at a fixed time. Use Trial Reels to test hooks on non-followers first."
   },
   {
@@ -359,9 +383,9 @@ window.REPORT = {
   }
  ],
  "good": [
-  "Shares are good: 28 shares on 2,001 views (1.4%). The 'kisi owner ko bhejo' ask works, but the six newest reels have at most one each, so make that ask in the video too.",
+  "Shares are good: 28 shares on 2,122 views (1.3%). The 'kisi owner ko bhejo' ask works, but the seven newest reels have at most one each, so make that ask in the video too.",
   "The relatable owner-moment reels (Salon, Purani diary, Sleep Tax, Owner ka phone) have the best hooks. More of this.",
-  "The real brand look is consistent across all 13 reels, so the grid already looks like one brand."
+  "The real brand look is consistent across all 14 reels, so the grid already looks like one brand."
  ],
  "tips": [
   {
