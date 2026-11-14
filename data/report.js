@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-14T08:43+05:30",
+ "updated": "2026-11-14T11:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 14
  },
  "totals": {
-  "views": 2122,
-  "reach": 1757,
-  "likes": 99,
+  "views": 2126,
+  "reach": 1760,
+  "likes": 100,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 31.4,
    "caption": "₹50,000 ka order... tune ya maine? 😱",
    "verdict": "Average hook, first day",
-   "note": "116 views in its first day, 33% got past 3 seconds (middle of the pack) and people watched 4.9 s of 31 s (16%). 1 save, no shares yet.",
-   "views": 116,
-   "reach": 109,
-   "likes": 3,
+   "note": "119 views so far, 35% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
+   "views": 119,
+   "reach": 111,
+   "likes": 4,
    "comments": 0,
    "saves": 1,
    "shares": 0,
-   "avgWatch": 4.9,
-   "past3s": 33.0
+   "avgWatch": 5.0,
+   "past3s": 34.8
   },
   {
    "key": "DfpYhuijOnS",
@@ -82,14 +82,14 @@ window.REPORT = {
    "caption": "Bridal client ko \"aap thoda wait karoge?\" bolna = salon owner ka sabse bura sapna 😶",
    "verdict": "Best hook so far",
    "note": "45.5% got past 3 seconds, still the best of all 14 reels, and people watched 10.2 s of 37 s (28%). 202 views, 1 save and 1 share.",
-   "views": 202,
-   "reach": 172,
+   "views": 203,
+   "reach": 173,
    "likes": 8,
    "comments": 0,
    "saves": 1,
    "shares": 1,
    "avgWatch": 10.2,
-   "past3s": 45.5
+   "past3s": 45.8
   },
   {
    "key": "DfZx7D7mdDV",
@@ -340,8 +340,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-13",
-   "views": 120,
-   "reach": 110
+   "views": 124,
+   "reach": 113
   }
  ],
  "wrong": [
