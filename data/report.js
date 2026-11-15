@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-15T08:42+05:30",
+ "updated": "2026-11-15T11:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 14
  },
  "totals": {
-  "views": 2129,
-  "reach": 1765,
+  "views": 2128,
+  "reach": 1764,
   "likes": 101,
   "comments": 0,
   "saves": 6,
@@ -82,14 +82,14 @@ window.REPORT = {
    "caption": "Bridal client ko \"aap thoda wait karoge?\" bolna = salon owner ka sabse bura sapna 😶",
    "verdict": "Best hook so far",
    "note": "45.5% got past 3 seconds, still the best of all 14 reels, and people watched 10.2 s of 37 s (28%). 202 views, 1 save and 1 share.",
-   "views": 203,
-   "reach": 173,
+   "views": 202,
+   "reach": 172,
    "likes": 8,
    "comments": 0,
    "saves": 1,
    "shares": 1,
    "avgWatch": 10.2,
-   "past3s": 45.8
+   "past3s": 45.5
   },
   {
    "key": "DfZx7D7mdDV",
