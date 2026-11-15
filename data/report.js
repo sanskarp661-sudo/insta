@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-15T14:42+05:30",
+ "updated": "2026-11-15T17:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 15
  },
  "totals": {
-  "views": 2162,
-  "reach": 1788,
+  "views": 2171,
+  "reach": 1800,
   "likes": 104,
   "comments": 0,
   "saves": 6,
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 36.9,
    "caption": "Lead 2 baje aaya. Call 5 baje gaya. 🏢💸",
    "verdict": "New, first hours",
-   "note": "Posted this morning: 31 views so far, 34.5% got past 3 seconds and people watched 5.1 s of 36.9 s. Judge it after 48 hours.",
-   "views": 31,
-   "reach": 22,
+   "note": "Posted this morning: 40 views so far, only 23.7% got past 3 seconds (down from 34.5%) and people watched 4.9 s of 36.9 s. The opening is losing people; judge it after 48 hours.",
+   "views": 40,
+   "reach": 34,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.1,
-   "past3s": 34.5
+   "avgWatch": 4.9,
+   "past3s": 23.7
   },
   {
    "key": "Dfr9X1IAL_5",
@@ -369,8 +369,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-15",
-   "views": 18,
-   "reach": 17
+   "views": 31,
+   "reach": 29
   }
  ],
  "wrong": [
