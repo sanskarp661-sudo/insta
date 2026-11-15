@@ -1,20 +1,39 @@
 window.REPORT = {
- "updated": "2026-11-15T11:42+05:30",
+ "updated": "2026-11-15T14:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
   "following": 0,
-  "reels": 14
+  "reels": 15
  },
  "totals": {
-  "views": 2128,
-  "reach": 1764,
-  "likes": 101,
+  "views": 2162,
+  "reach": 1788,
+  "likes": 104,
   "comments": 0,
   "saves": 6,
   "shares": 28
  },
  "reels": [
+  {
+   "key": "DfwMVsTjbmW",
+   "title": "Lead burner (real estate)",
+   "url": "https://www.instagram.com/reel/DfwMVsTjbmW/",
+   "posted": "2026-11-15T12:30",
+   "thumb": "img/reels/DfwMVsTjbmW.jpg",
+   "duration": 36.9,
+   "caption": "Lead 2 baje aaya. Call 5 baje gaya. 🏢💸",
+   "verdict": "New, first hours",
+   "note": "Posted this morning: 31 views so far, 34.5% got past 3 seconds and people watched 5.1 s of 36.9 s. Judge it after 48 hours.",
+   "views": 31,
+   "reach": 22,
+   "likes": 2,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avgWatch": 5.1,
+   "past3s": 34.5
+  },
   {
    "key": "Dfr9X1IAL_5",
    "title": "Order blame: tune ya maine?",
@@ -43,15 +62,15 @@ window.REPORT = {
    "duration": 18.8,
    "caption": "Raat 11 baje bhi diary ka total match nahi hota? 📒",
    "verdict": "Good hook, short works",
-   "note": "Shortest reel so far (19 s). 152 views after two days, 42.9% got past 3 seconds (second best after Salon) and people watched 4.3 s of 19 s (23%). No saves or shares yet.",
-   "views": 152,
-   "reach": 135,
-   "likes": 4,
+   "note": "Shortest reel so far (19 s). 154 views after three days, 42.5% got past 3 seconds (second best after Salon) and people watched 4.3 s of 19 s (23%). No saves or shares yet.",
+   "views": 154,
+   "reach": 136,
+   "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 4.3,
-   "past3s": 42.9
+   "past3s": 42.5
   },
   {
    "key": "Dfjzp64E4jP",
@@ -82,14 +101,14 @@ window.REPORT = {
    "caption": "Bridal client ko \"aap thoda wait karoge?\" bolna = salon owner ka sabse bura sapna 😶",
    "verdict": "Best hook so far",
    "note": "45.5% got past 3 seconds, still the best of all 14 reels, and people watched 10.2 s of 37 s (28%). 202 views, 1 save and 1 share.",
-   "views": 202,
-   "reach": 172,
+   "views": 203,
+   "reach": 173,
    "likes": 8,
    "comments": 0,
    "saves": 1,
    "shares": 1,
    "avgWatch": 10.2,
-   "past3s": 45.5
+   "past3s": 45.8
   },
   {
    "key": "DfZx7D7mdDV",
@@ -345,8 +364,13 @@ window.REPORT = {
   },
   {
    "d": "2026-11-14",
-   "views": 2,
-   "reach": 2
+   "views": 12,
+   "reach": 8
+  },
+  {
+   "d": "2026-11-15",
+   "views": 18,
+   "reach": 17
   }
  ],
  "wrong": [
