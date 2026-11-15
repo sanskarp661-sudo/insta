@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-15T17:42+05:30",
+ "updated": "2026-11-15T22:31+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 15
  },
  "totals": {
-  "views": 2171,
-  "reach": 1800,
-  "likes": 104,
+  "views": 2182,
+  "reach": 1811,
+  "likes": 105,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 36.9,
    "caption": "Lead 2 baje aaya. Call 5 baje gaya. 🏢💸",
    "verdict": "New, first hours",
-   "note": "Posted this morning: 40 views so far, only 23.7% got past 3 seconds (down from 34.5%) and people watched 4.9 s of 36.9 s. The opening is losing people; judge it after 48 hours.",
-   "views": 40,
-   "reach": 34,
+   "note": "Posted this morning: 48 views so far, only 15.6% got past 3 seconds (lowest of all reels) and people watched 4.3 s of 36.9 s. The opening is losing people; judge it after 48 hours.",
+   "views": 48,
+   "reach": 44,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.9,
-   "past3s": 23.7
+   "avgWatch": 4.3,
+   "past3s": 15.6
   },
   {
    "key": "Dfr9X1IAL_5",
@@ -43,15 +43,15 @@ window.REPORT = {
    "duration": 31.4,
    "caption": "₹50,000 ka order... tune ya maine? 😱",
    "verdict": "Average hook, first day",
-   "note": "119 views so far, 35% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
-   "views": 122,
-   "reach": 115,
-   "likes": 5,
+   "note": "125 views after two days, 36.2% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
+   "views": 125,
+   "reach": 116,
+   "likes": 6,
    "comments": 0,
    "saves": 1,
    "shares": 0,
    "avgWatch": 5.0,
-   "past3s": 35.7
+   "past3s": 36.2
   },
   {
    "key": "DfpYhuijOnS",
@@ -369,8 +369,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-15",
-   "views": 31,
-   "reach": 29
+   "views": 44,
+   "reach": 39
   }
  ],
  "wrong": [
