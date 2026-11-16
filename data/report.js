@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-15T22:31+05:30",
+ "updated": "2026-11-16T08:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 26,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 15
  },
  "totals": {
-  "views": 2182,
-  "reach": 1811,
-  "likes": 105,
+  "views": 2188,
+  "reach": 1815,
+  "likes": 107,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -23,16 +23,16 @@ window.REPORT = {
    "thumb": "img/reels/DfwMVsTjbmW.jpg",
    "duration": 36.9,
    "caption": "Lead 2 baje aaya. Call 5 baje gaya. 🏢💸",
-   "verdict": "New, first hours",
-   "note": "Posted this morning: 48 views so far, only 15.6% got past 3 seconds (lowest of all reels) and people watched 4.3 s of 36.9 s. The opening is losing people; judge it after 48 hours.",
-   "views": 48,
-   "reach": 44,
+   "verdict": "Weak hook",
+   "note": "50 views after a day, only 17.0% got past 3 seconds (among the lowest) and people watched 4.4 s of 36.9 s. Views have nearly stopped: the opening is losing people.",
+   "views": 50,
+   "reach": 45,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.3,
-   "past3s": 15.6
+   "avgWatch": 4.4,
+   "past3s": 17.0
   },
   {
    "key": "Dfr9X1IAL_5",
@@ -44,14 +44,14 @@ window.REPORT = {
    "caption": "₹50,000 ka order... tune ya maine? 😱",
    "verdict": "Average hook, first day",
    "note": "125 views after two days, 36.2% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
-   "views": 125,
-   "reach": 116,
-   "likes": 6,
+   "views": 127,
+   "reach": 117,
+   "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 0,
    "avgWatch": 5.0,
-   "past3s": 36.2
+   "past3s": 35.9
   },
   {
    "key": "DfpYhuijOnS",
@@ -63,14 +63,14 @@ window.REPORT = {
    "caption": "Raat 11 baje bhi diary ka total match nahi hota? 📒",
    "verdict": "Good hook, short works",
    "note": "Shortest reel so far (19 s). 154 views after three days, 42.5% got past 3 seconds (second best after Salon) and people watched 4.3 s of 19 s (23%). No saves or shares yet.",
-   "views": 154,
-   "reach": 136,
-   "likes": 5,
+   "views": 155,
+   "reach": 137,
+   "likes": 6,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 4.3,
-   "past3s": 42.5
+   "past3s": 43.0
   },
   {
    "key": "Dfjzp64E4jP",
@@ -196,14 +196,14 @@ window.REPORT = {
    "caption": "Aap business ke owner ho, ya apni sales team ke supplier? 🚩",
    "verdict": "Weakest start",
    "note": "14.9% got past 3 seconds, the lowest of all reels, and 62 views. It went up the same day as Sleep Tax, which took the reach.",
-   "views": 62,
-   "reach": 49,
+   "views": 63,
+   "reach": 50,
    "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 2,
-   "avgWatch": 4.7,
-   "past3s": 15.4
+   "avgWatch": 4.6,
+   "past3s": 15.1
   },
   {
    "key": "DfU1nYaIDPh",
@@ -369,8 +369,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-15",
-   "views": 44,
-   "reach": 39
+   "views": 50,
+   "reach": 40
   }
  ],
  "wrong": [
