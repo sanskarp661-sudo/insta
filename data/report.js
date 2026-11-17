@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-17T08:42+05:30",
+ "updated": "2026-11-17T11:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 15
  },
  "totals": {
-  "views": 2203,
+  "views": 2205,
   "reach": 1822,
-  "likes": 109,
+  "likes": 110,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -82,14 +82,14 @@ window.REPORT = {
    "caption": "Customer ne aapko Google kiya… aur order kisi aur ko chala gaya. 😶",
    "verdict": "Weak start",
    "note": "First website-only reel. 51 views after three days, 27.7% got past 3 seconds and people watched 3.7 s of 31 s (12%). No saves or shares yet: the opening needs a stronger first line.",
-   "views": 53,
+   "views": 54,
    "reach": 45,
-   "likes": 4,
+   "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 3.7,
-   "past3s": 28.6
+   "past3s": 30.0
   },
   {
    "key": "DfbVCFCAvTv",
@@ -196,14 +196,14 @@ window.REPORT = {
    "caption": "Aap business ke owner ho, ya apni sales team ke supplier? 🚩",
    "verdict": "Weakest start",
    "note": "14.9% got past 3 seconds, the lowest of all reels, and 62 views. It went up the same day as Sleep Tax, which took the reach.",
-   "views": 63,
+   "views": 64,
    "reach": 50,
    "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 2,
    "avgWatch": 4.6,
-   "past3s": 15.1
+   "past3s": 14.8
   },
   {
    "key": "DfU1nYaIDPh",
@@ -374,7 +374,7 @@ window.REPORT = {
   },
   {
    "d": "2026-11-16",
-   "views": 25,
+   "views": 26,
    "reach": 4
   }
  ],
