@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-17T17:42+05:30",
+ "updated": "2026-11-17T20:43+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 15
  },
  "totals": {
-  "views": 2233,
-  "reach": 1830,
-  "likes": 114,
+  "views": 2239,
+  "reach": 1833,
+  "likes": 115,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -140,13 +140,13 @@ window.REPORT = {
    "verdict": "Weak hook",
    "note": "132 views, but only 18.6% got past 3 seconds and people watched 4.6 s of 34 s (13%). No shares or saves after a week.",
    "views": 134,
-   "reach": 115,
+   "reach": 116,
    "likes": 6,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 4.6,
-   "past3s": 19.2
+   "past3s": 18.3
   },
   {
    "key": "DfYU6n6k049",
@@ -177,14 +177,14 @@ window.REPORT = {
    "caption": "Raat 11 baje: \"Bhaiya, price kya hai?\" 📱",
    "verdict": "Best watch time",
    "note": "39.1% got past 3 seconds and people watched 10.7 s of 35.5 s (30%), still the best watch time. Only Salon and the new Purani diary reel have a better hook.",
-   "views": 136,
-   "reach": 114,
-   "likes": 4,
+   "views": 138,
+   "reach": 115,
+   "likes": 5,
    "comments": 0,
    "saves": 1,
    "shares": 1,
-   "avgWatch": 10.4,
-   "past3s": 38.5
+   "avgWatch": 10.6,
+   "past3s": 39.0
   },
   {
    "key": "DfWO82Fkucv",
@@ -231,14 +231,14 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfTtGX5oI7h/",
    "thumb": "img/reels/owner-ka-phone.jpg",
    "duration": 45.5,
-   "views": 288,
-   "reach": 238,
+   "views": 292,
+   "reach": 239,
    "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 4,
    "avgWatch": 7.8,
-   "past3s": 36.1,
+   "past3s": 36.0,
    "caption": "Family: \"Thoda phone side mein rakho.\" Owner: \"Bas ek minute... ek order aaya hai.\"",
    "verdict": "Strong hook",
    "note": "36.1% got past 3 seconds, behind Salon, Purani diary and Sleep Tax, and 288 views, the second most. The relatable dialogue opening works."
@@ -379,8 +379,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-17",
-   "views": 31,
-   "reach": 3
+   "views": 34,
+   "reach": 4
   }
  ],
  "wrong": [
