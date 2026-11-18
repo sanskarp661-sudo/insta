@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-18T08:42+05:30",
+ "updated": "2026-11-18T11:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,7 +7,7 @@ window.REPORT = {
   "reels": 16
  },
  "totals": {
-  "views": 2249,
+  "views": 2250,
   "reach": 1841,
   "likes": 117,
   "comments": 0,
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 30.5,
    "caption": "Aapka clinic 8 baje band hota hai, lekin patient ki requirement 24/7 hoti hai. 🕒",
    "verdict": "First day",
-   "note": "Posted last night at 9 pm. Only 10 views so far, so the 0% past 3 seconds is too early to judge; check again after 48 hours.",
-   "views": 10,
+   "note": "Posted last night at 9 pm. Only 11 views so far, so the 12.5% past 3 seconds is too early to judge; check again after 48 hours.",
+   "views": 11,
    "reach": 8,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 6.7,
-   "past3s": 0.0
+   "past3s": 12.5
   },
   {
    "key": "DfwMVsTjbmW",
