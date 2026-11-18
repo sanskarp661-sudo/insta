@@ -1,20 +1,39 @@
 window.REPORT = {
- "updated": "2026-11-17T20:43+05:30",
+ "updated": "2026-11-18T08:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
   "following": 0,
-  "reels": 15
+  "reels": 16
  },
  "totals": {
-  "views": 2239,
-  "reach": 1833,
-  "likes": 115,
+  "views": 2249,
+  "reach": 1841,
+  "likes": 117,
   "comments": 0,
   "saves": 6,
   "shares": 28
  },
  "reels": [
+  {
+   "key": "Df2QjzfExPF",
+   "title": "Clinic after hours",
+   "url": "https://www.instagram.com/reel/Df2QjzfExPF/",
+   "posted": "2026-11-17T21:02",
+   "thumb": "",
+   "duration": 30.5,
+   "caption": "Aapka clinic 8 baje band hota hai, lekin patient ki requirement 24/7 hoti hai. 🕒",
+   "verdict": "First day",
+   "note": "Posted last night at 9 pm. Only 10 views so far, so the 0% past 3 seconds is too early to judge; check again after 48 hours.",
+   "views": 10,
+   "reach": 8,
+   "likes": 2,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avgWatch": 6.7,
+   "past3s": 0.0
+  },
   {
    "key": "DfwMVsTjbmW",
    "title": "Lead burner (real estate)",
@@ -100,7 +119,7 @@ window.REPORT = {
    "duration": 37.1,
    "caption": "Bridal client ko \"aap thoda wait karoge?\" bolna = salon owner ka sabse bura sapna 😶",
    "verdict": "Best hook so far",
-   "note": "45.9% got past 3 seconds, still the best of all 15 reels, and people watched 10.1 s of 37 s (27%). 205 views, 1 save and 1 share.",
+   "note": "45.9% got past 3 seconds, still the best of all 16 reels, and people watched 10.1 s of 37 s (27%). 205 views, 1 save and 1 share.",
    "views": 205,
    "reach": 174,
    "likes": 8,
@@ -379,8 +398,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-17",
-   "views": 34,
-   "reach": 4
+   "views": 52,
+   "reach": 10
   }
  ],
  "wrong": [
@@ -399,13 +418,13 @@ window.REPORT = {
   {
    "sev": "medium",
    "title": "No comments at all",
-   "data": "0 comments on 14 reels.",
+   "data": "0 comments on 16 reels.",
    "fix": "Ask an easy A-or-B question in the video itself ('Aap kaunse owner ho, A ya B?'), not only in the caption, and pin a comment that answers first."
   },
   {
    "sev": "medium",
    "title": "Almost no saves",
-   "data": "6 saves on 2,122 views. Salon and the new Order blame reel got 1 each; Data entry clerk, Dhanteras, Gym fees, the Website reel and Purani diary got none.",
+   "data": "6 saves on 2,249 views. Salon and the new Order blame reel got 1 each; Data entry clerk, Dhanteras, Gym fees, the Website reel and Purani diary got none.",
    "fix": "One 'useful' reel a week: a checklist or '3 free tools' with the list on screen long enough to want to save it."
   },
   {
@@ -417,14 +436,14 @@ window.REPORT = {
   {
    "sev": "low",
    "title": "Too few followers for the algorithm to test with",
-   "data": "26 followers, following 0.",
+   "data": "27 followers, following 0.",
    "fix": "Collab posts with local business pages, 10 minutes a day in niche comments, and a pinned 'start here' reel."
   }
  ],
  "good": [
-  "Shares are good: 28 shares on 2,122 views (1.3%). The 'kisi owner ko bhejo' ask works, but the seven newest reels have at most one each, so make that ask in the video too.",
+  "Shares are good: 28 shares on 2,249 views (1.2%). The 'kisi owner ko bhejo' ask works, but the seven newest reels have at most one each, so make that ask in the video too.",
   "The relatable owner-moment reels (Salon, Purani diary, Sleep Tax, Owner ka phone) have the best hooks. More of this.",
-  "The real brand look is consistent across all 14 reels, so the grid already looks like one brand."
+  "The real brand look is consistent across all 16 reels, so the grid already looks like one brand."
  ],
  "tips": [
   {
