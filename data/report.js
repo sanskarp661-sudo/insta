@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-19T08:42+05:30",
+ "updated": "2026-11-19T11:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 16
  },
  "totals": {
-  "views": 2251,
-  "reach": 1842,
-  "likes": 117,
+  "views": 2253,
+  "reach": 1843,
+  "likes": 118,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 30.5,
    "caption": "Aapka clinic 8 baje band hota hai, lekin patient ki requirement 24/7 hoti hai. 🕒",
    "verdict": "First day",
-   "note": "Posted Tuesday at 9 pm. Only 12 views in the first day and Instagram shows 0% past 3 seconds on that tiny sample, so it is too early to judge; check again after 48 hours.",
-   "views": 12,
-   "reach": 9,
-   "likes": 2,
+   "note": "Posted Tuesday at 9 pm. Only 13 views so far and just 10% got past 3 seconds, but the sample is tiny; judge it after 48 hours.",
+   "views": 13,
+   "reach": 10,
+   "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.6,
-   "past3s": 0.0
+   "avgWatch": 5.5,
+   "past3s": 10.0
   },
   {
    "key": "DfwMVsTjbmW",
@@ -288,14 +288,14 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfRLRaYoUgL/",
    "thumb": "img/reels/customer-loss.jpg",
    "duration": 51.4,
-   "views": 111,
+   "views": 112,
    "reach": 86,
    "likes": 13,
    "comments": 0,
    "saves": 0,
    "shares": 5,
-   "avgWatch": 6.4,
-   "past3s": 26.4,
+   "avgWatch": 6.7,
+   "past3s": 27.2,
    "caption": "Lead aaya, reply 6 ghante baad, aur customer competitor ke paas chala gaya.",
    "verdict": "Lowest reach",
    "note": "Longest reel (51 s) and the lowest reach. Posted 7 hours before Staff ya system on the same day, so the two competed for the same followers."
@@ -403,8 +403,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-18",
-   "views": 2,
-   "reach": 1
+   "views": 4,
+   "reach": 2
   }
  ],
  "wrong": [
