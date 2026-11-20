@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-20T14:42+05:30",
+ "updated": "2026-11-20T17:43+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2341,
-  "reach": 1905,
-  "likes": 122,
+  "views": 2345,
+  "reach": 1910,
+  "likes": 124,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 50.6,
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "First day",
-   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 21 views; past 3 seconds rose to 22%, but people watched only 2.8 s, the shortest watch of any reel. Judge after 48 hours.",
-   "views": 21,
-   "reach": 17,
-   "likes": 3,
+   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 23 views; past 3 seconds fell to 15% and people watched only 2.6 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone. Judge after 48 hours.",
+   "views": 23,
+   "reach": 20,
+   "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 2.8,
-   "past3s": 22.2
+   "avgWatch": 2.6,
+   "past3s": 15.0
   },
   {
    "key": "Df7aHefCHJ0",
@@ -44,14 +44,14 @@ window.REPORT = {
    "caption": "Purani customer ko yaad rakho, wapas aayegi. 👗",
    "verdict": "First day",
    "note": "Posted Thursday at 9 pm. 53 views, 29% past 3 seconds and 7.0 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
-   "views": 53,
-   "reach": 42,
-   "likes": 2,
+   "views": 55,
+   "reach": 44,
+   "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 7.0,
-   "past3s": 28.6
+   "avgWatch": 7.1,
+   "past3s": 29.5
   },
   {
    "key": "Df2QjzfExPF",
@@ -62,14 +62,14 @@ window.REPORT = {
    "duration": 30.5,
    "caption": "Aapka clinic 8 baje band hota hai, lekin patient ki requirement 24/7 hoti hai. 🕒",
    "verdict": "First day",
-   "note": "Posted Tuesday at 9 pm. 14 views after 3 days; past 3 seconds rose to 18% and average watch to 6.3 s, but reach stayed tiny. The hook did not travel.",
+   "note": "Posted Tuesday at 9 pm. 14 views after 3 days; past 3 seconds is 18% and average watch 5.9 s, but reach stayed tiny. The hook did not travel.",
    "views": 14,
    "reach": 11,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 6.3,
+   "avgWatch": 5.9,
    "past3s": 18.2
   },
   {
@@ -88,7 +88,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.7,
+   "avgWatch": 5.6,
    "past3s": 24.1
   },
   {
@@ -107,7 +107,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 1,
    "shares": 0,
-   "avgWatch": 5.1,
+   "avgWatch": 5.0,
    "past3s": 36.4
   },
   {
@@ -446,8 +446,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-19",
-   "views": 67,
-   "reach": 41
+   "views": 87,
+   "reach": 48
   }
  ],
  "wrong": [
