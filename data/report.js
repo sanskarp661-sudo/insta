@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-20T17:43+05:30",
+ "updated": "2026-11-20T20:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2345,
-  "reach": 1910,
+  "views": 2348,
+  "reach": 1913,
   "likes": 124,
   "comments": 0,
   "saves": 6,
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 50.6,
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "First day",
-   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 23 views; past 3 seconds fell to 15% and people watched only 2.6 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone. Judge after 48 hours.",
-   "views": 23,
-   "reach": 20,
+   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 24 views; past 3 seconds fell to 14% and people watched only 2.5 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone. Judge after 48 hours.",
+   "views": 24,
+   "reach": 21,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 2.6,
-   "past3s": 15.0
+   "avgWatch": 2.5,
+   "past3s": 14.3
   },
   {
    "key": "Df7aHefCHJ0",
@@ -43,15 +43,15 @@ window.REPORT = {
    "duration": 60.6,
    "caption": "Purani customer ko yaad rakho, wapas aayegi. 👗",
    "verdict": "First day",
-   "note": "Posted Thursday at 9 pm. 53 views, 29% past 3 seconds and 7.0 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
-   "views": 55,
-   "reach": 44,
+   "note": "Posted Thursday at 9 pm. 56 views, 29% past 3 seconds and 7.0 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
+   "views": 56,
+   "reach": 45,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 7.1,
-   "past3s": 29.5
+   "avgWatch": 7.0,
+   "past3s": 28.9
   },
   {
    "key": "Df2QjzfExPF",
@@ -101,14 +101,14 @@ window.REPORT = {
    "caption": "₹50,000 ka order... tune ya maine? 😱",
    "verdict": "Average hook, first day",
    "note": "131 views after four days, 35.8% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
-   "views": 132,
-   "reach": 119,
+   "views": 133,
+   "reach": 120,
    "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 0,
    "avgWatch": 5.0,
-   "past3s": 36.4
+   "past3s": 36.1
   },
   {
    "key": "DfpYhuijOnS",
@@ -448,6 +448,11 @@ window.REPORT = {
    "d": "2026-11-19",
    "views": 87,
    "reach": 48
+  },
+  {
+   "d": "2026-11-20",
+   "views": 11,
+   "reach": 9
   }
  ],
  "wrong": [
