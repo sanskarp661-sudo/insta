@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-20T08:43+05:30",
+ "updated": "2026-11-20T11:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2316,
-  "reach": 1889,
-  "likes": 120,
+  "views": 2333,
+  "reach": 1899,
+  "likes": 121,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 50.6,
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "First day",
-   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. Only 12 views and 18% past 3 seconds so far; the two reels split the evening. Judge after 48 hours.",
-   "views": 12,
-   "reach": 12,
-   "likes": 1,
+   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 16 views and only 14% past 3 seconds, our weakest opening so far; the hook loses people fast. Judge after 48 hours.",
+   "views": 16,
+   "reach": 14,
+   "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 3.3,
-   "past3s": 18.2
+   "avgWatch": 2.9,
+   "past3s": 14.3
   },
   {
    "key": "Df7aHefCHJ0",
@@ -43,15 +43,15 @@ window.REPORT = {
    "duration": 60.6,
    "caption": "Purani customer ko yaad rakho, wapas aayegi. 👗",
    "verdict": "First day",
-   "note": "Posted Thursday at 9 pm. 40 views on day one, 29% past 3 seconds and 6.2 s average watch, but it runs 61 s, our longest. Judge after 48 hours.",
-   "views": 40,
-   "reach": 34,
+   "note": "Posted Thursday at 9 pm. 50 views, 30% past 3 seconds and 7.1 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
+   "views": 50,
+   "reach": 39,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 6.2,
-   "past3s": 29.4
+   "avgWatch": 7.1,
+   "past3s": 30.0
   },
   {
    "key": "Df2QjzfExPF",
@@ -62,15 +62,15 @@ window.REPORT = {
    "duration": 30.5,
    "caption": "Aapka clinic 8 baje band hota hai, lekin patient ki requirement 24/7 hoti hai. 🕒",
    "verdict": "First day",
-   "note": "Posted Tuesday at 9 pm. Only 13 views so far and just 10% got past 3 seconds, but the sample is tiny; judge it after 48 hours.",
-   "views": 13,
-   "reach": 10,
+   "note": "Posted Tuesday at 9 pm. 14 views after 3 days; past 3 seconds rose to 18% and average watch to 6.3 s, but reach stayed tiny. The hook did not travel.",
+   "views": 14,
+   "reach": 11,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.5,
-   "past3s": 10.0
+   "avgWatch": 6.3,
+   "past3s": 18.2
   },
   {
    "key": "DfwMVsTjbmW",
@@ -82,14 +82,14 @@ window.REPORT = {
    "caption": "Lead 2 baje aaya. Call 5 baje gaya. 🏢💸",
    "verdict": "Weak hook",
    "note": "58 views after two days, only 22.6% got past 3 seconds (in the bottom half) and people watched 5.4 s of 36.9 s. Views have nearly stopped: the opening is losing people.",
-   "views": 58,
-   "reach": 48,
+   "views": 59,
+   "reach": 49,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.4,
-   "past3s": 22.6
+   "avgWatch": 5.7,
+   "past3s": 24.1
   },
   {
    "key": "Dfr9X1IAL_5",
@@ -101,14 +101,14 @@ window.REPORT = {
    "caption": "₹50,000 ka order... tune ya maine? 😱",
    "verdict": "Average hook, first day",
    "note": "131 views after four days, 35.8% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
-   "views": 131,
-   "reach": 118,
+   "views": 132,
+   "reach": 119,
    "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 0,
-   "avgWatch": 5.0,
-   "past3s": 35.8
+   "avgWatch": 5.1,
+   "past3s": 36.4
   },
   {
    "key": "DfpYhuijOnS",
@@ -446,8 +446,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-19",
-   "views": 67,
-   "reach": 41
+   "views": 82,
+   "reach": 46
   }
  ],
  "wrong": [
