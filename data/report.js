@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-20T11:42+05:30",
+ "updated": "2026-11-20T14:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2333,
-  "reach": 1899,
-  "likes": 121,
+  "views": 2341,
+  "reach": 1905,
+  "likes": 122,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 50.6,
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "First day",
-   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 16 views and only 14% past 3 seconds, our weakest opening so far; the hook loses people fast. Judge after 48 hours.",
-   "views": 16,
-   "reach": 14,
-   "likes": 2,
+   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 21 views; past 3 seconds rose to 22%, but people watched only 2.8 s, the shortest watch of any reel. Judge after 48 hours.",
+   "views": 21,
+   "reach": 17,
+   "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 2.9,
-   "past3s": 14.3
+   "avgWatch": 2.8,
+   "past3s": 22.2
   },
   {
    "key": "Df7aHefCHJ0",
@@ -43,15 +43,15 @@ window.REPORT = {
    "duration": 60.6,
    "caption": "Purani customer ko yaad rakho, wapas aayegi. 👗",
    "verdict": "First day",
-   "note": "Posted Thursday at 9 pm. 50 views, 30% past 3 seconds and 7.1 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
-   "views": 50,
-   "reach": 39,
+   "note": "Posted Thursday at 9 pm. 53 views, 29% past 3 seconds and 7.0 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
+   "views": 53,
+   "reach": 42,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 7.1,
-   "past3s": 30.0
+   "avgWatch": 7.0,
+   "past3s": 28.6
   },
   {
    "key": "Df2QjzfExPF",
@@ -446,15 +446,15 @@ window.REPORT = {
   },
   {
    "d": "2026-11-19",
-   "views": 82,
-   "reach": 46
+   "views": 67,
+   "reach": 41
   }
  ],
  "wrong": [
   {
    "sev": "high",
    "title": "Most people swipe away in the first 3 seconds",
-   "data": "Only 10% to 46% of viewers got past 3 seconds. Clinic (10%), Owner ya sales team (16%), Brand reveal, Data entry clerk and the new Coaching reel (18%) are the weakest, while Salon reached 46% and Purani diary 43%.",
+   "data": "Only 16% to 46% of viewers got past 3 seconds. Owner ya sales team (16%), Brand reveal, Data entry clerk and Clinic (18%) are the weakest, while Salon reached 46% and Purani diary 43%.",
    "fix": "Open on the problem moment, never a logo or setup. Big readable text in frame 1, and the first spoken line under 2 seconds. Copy what Salon (46%), Purani diary (43%) and Sleep Tax (39%) did, which are the best."
   },
   {
@@ -478,7 +478,7 @@ window.REPORT = {
   {
    "sev": "medium",
    "title": "Too many reels on the same day",
-   "data": "Two reels went up on 3, 5 and 19 Nov, and three on 6 Nov. The later one usually gets less: on 19 Nov the boutique reel has 40 views and the coaching reel, posted 30 minutes later, only 12. Salon, alone on 7 Nov, got the best hook of all.",
+   "data": "Two reels went up on 3, 5 and 19 Nov, and three on 6 Nov. The later one usually gets less: on 19 Nov the boutique reel has 53 views and the coaching reel, posted 30 minutes later, only 21. Salon, alone on 7 Nov, got the best hook of all.",
    "fix": "One reel a day at most, 4 to 5 a week, at a fixed time. Use Trial Reels to test hooks on non-followers first."
   },
   {
