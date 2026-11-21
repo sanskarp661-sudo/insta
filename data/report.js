@@ -1,14 +1,14 @@
 window.REPORT = {
- "updated": "2026-11-21T14:42+05:30",
+ "updated": "2026-11-21T17:43+05:30",
  "account": {
   "handle": "mosaicengine",
-  "followers": 27,
+  "followers": 28,
   "following": 0,
   "reels": 18
  },
  "totals": {
-  "views": 2353,
-  "reach": 1917,
+  "views": 2355,
+  "reach": 1921,
   "likes": 124,
   "comments": 0,
   "saves": 6,
@@ -25,14 +25,14 @@ window.REPORT = {
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "First day",
    "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 25 views after two days; past 3 seconds is down to 14% and people watched only 2.5 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone: cut straight to the first problem next time.",
-   "views": 25,
-   "reach": 21,
+   "views": 26,
+   "reach": 23,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 2.5,
-   "past3s": 13.6
+   "avgWatch": 2.7,
+   "past3s": 17.4
   },
   {
    "key": "Df7aHefCHJ0",
@@ -44,14 +44,14 @@ window.REPORT = {
    "caption": "Purani customer ko yaad rakho, wapas aayegi. 👗",
    "verdict": "First day",
    "note": "Posted Thursday at 9 pm. 56 views, 29% past 3 seconds and 7.0 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
-   "views": 56,
-   "reach": 45,
+   "views": 57,
+   "reach": 46,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 7.0,
-   "past3s": 28.9
+   "avgWatch": 6.8,
+   "past3s": 30.4
   },
   {
    "key": "Df2QjzfExPF",
@@ -64,7 +64,7 @@ window.REPORT = {
    "verdict": "First day",
    "note": "Posted Tuesday at 9 pm. 15 views after 4 days; past 3 seconds is 17% and average watch 5.6 s, but reach stayed tiny. The hook did not travel.",
    "views": 15,
-   "reach": 12,
+   "reach": 13,
    "likes": 3,
    "comments": 0,
    "saves": 0,
