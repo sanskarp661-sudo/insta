@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-20T20:42+05:30",
+ "updated": "2026-11-21T08:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2348,
-  "reach": 1913,
+  "views": 2352,
+  "reach": 1916,
   "likes": 124,
   "comments": 0,
   "saves": 6,
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 50.6,
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "First day",
-   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 24 views; past 3 seconds fell to 14% and people watched only 2.5 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone. Judge after 48 hours.",
-   "views": 24,
+   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 25 views after two days; past 3 seconds is down to 14% and people watched only 2.5 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone: cut straight to the first problem next time.",
+   "views": 25,
    "reach": 21,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 2.5,
-   "past3s": 14.3
+   "past3s": 13.6
   },
   {
    "key": "Df7aHefCHJ0",
@@ -62,15 +62,15 @@ window.REPORT = {
    "duration": 30.5,
    "caption": "Aapka clinic 8 baje band hota hai, lekin patient ki requirement 24/7 hoti hai. 🕒",
    "verdict": "First day",
-   "note": "Posted Tuesday at 9 pm. 14 views after 3 days; past 3 seconds is 18% and average watch 5.9 s, but reach stayed tiny. The hook did not travel.",
-   "views": 14,
-   "reach": 11,
+   "note": "Posted Tuesday at 9 pm. 15 views after 4 days; past 3 seconds is 17% and average watch 5.6 s, but reach stayed tiny. The hook did not travel.",
+   "views": 15,
+   "reach": 12,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.9,
-   "past3s": 18.2
+   "avgWatch": 5.6,
+   "past3s": 16.7
   },
   {
    "key": "DfwMVsTjbmW",
@@ -81,15 +81,15 @@ window.REPORT = {
    "duration": 36.9,
    "caption": "Lead 2 baje aaya. Call 5 baje gaya. 🏢💸",
    "verdict": "Weak hook",
-   "note": "58 views after two days, only 22.6% got past 3 seconds (in the bottom half) and people watched 5.4 s of 36.9 s. Views have nearly stopped: the opening is losing people.",
-   "views": 59,
-   "reach": 49,
+   "note": "60 views after six days, only 23.6% got past 3 seconds (in the bottom half) and people watched 5.5 s of 36.9 s. Views have nearly stopped: the opening is losing people.",
+   "views": 60,
+   "reach": 50,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.6,
-   "past3s": 24.1
+   "avgWatch": 5.5,
+   "past3s": 23.6
   },
   {
    "key": "Dfr9X1IAL_5",
@@ -119,15 +119,15 @@ window.REPORT = {
    "duration": 18.8,
    "caption": "Raat 11 baje bhi diary ka total match nahi hota? 📒",
    "verdict": "Good hook, short works",
-   "note": "Shortest reel so far (19 s). 158 views after five days, 42.8% got past 3 seconds (second best after Salon) and people watched 4.3 s of 19 s (23%). No saves or shares yet.",
-   "views": 158,
-   "reach": 138,
+   "note": "Shortest reel so far (19 s). 159 views after nine days, 42.4% got past 3 seconds (second best after Salon) and people watched 4.2 s of 19 s (23%). No saves or shares yet.",
+   "views": 159,
+   "reach": 139,
    "likes": 6,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.3,
-   "past3s": 42.8
+   "avgWatch": 4.2,
+   "past3s": 42.4
   },
   {
    "key": "Dfjzp64E4jP",
@@ -451,8 +451,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-20",
-   "views": 11,
-   "reach": 9
+   "views": 32,
+   "reach": 12
   }
  ],
  "wrong": [
