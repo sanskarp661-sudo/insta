@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-21T08:42+05:30",
+ "updated": "2026-11-21T11:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 27,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2352,
-  "reach": 1916,
+  "views": 2353,
+  "reach": 1917,
   "likes": 124,
   "comments": 0,
   "saves": 6,
@@ -272,14 +272,14 @@ window.REPORT = {
    "caption": "Hisaab tally hua? Nahi. Neend aayi? Woh bhi nahi. 😮‍💨",
    "verdict": "Weak hook, no shares",
    "note": "Only 22.3% got past 3 seconds and people watched 5.5 s of 46 s (12%). Still no shares: a tool-vs-tool topic is less sendable than a relatable owner moment.",
-   "views": 188,
-   "reach": 157,
+   "views": 189,
+   "reach": 158,
    "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 0,
-   "avgWatch": 5.4,
-   "past3s": 21.0
+   "avgWatch": 5.3,
+   "past3s": 20.9
   },
   {
    "key": "owner-ka-phone",
@@ -451,8 +451,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-20",
-   "views": 32,
-   "reach": 12
+   "views": 33,
+   "reach": 13
   }
  ],
  "wrong": [
