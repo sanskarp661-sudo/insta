@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-23T20:44+05:30",
+ "updated": "2026-11-24T08:43+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 28,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2357,
-  "reach": 1921,
+  "views": 2359,
+  "reach": 1923,
   "likes": 124,
   "comments": 0,
   "saves": 6,
@@ -63,14 +63,14 @@ window.REPORT = {
    "caption": "Aapka clinic 8 baje band hota hai, lekin patient ki requirement 24/7 hoti hai. 🕒",
    "verdict": "First day",
    "note": "Posted Tuesday at 9 pm. 15 views after 4 days; past 3 seconds is 17% and average watch 5.6 s, but reach stayed tiny. The hook did not travel.",
-   "views": 15,
-   "reach": 13,
+   "views": 16,
+   "reach": 14,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.6,
-   "past3s": 16.7
+   "avgWatch": 5.3,
+   "past3s": 15.4
   },
   {
    "key": "DfwMVsTjbmW",
@@ -139,14 +139,14 @@ window.REPORT = {
    "caption": "Customer ne aapko Google kiya… aur order kisi aur ko chala gaya. 😶",
    "verdict": "Weak start",
    "note": "First website-only reel. 55 views after a week, 29.4% got past 3 seconds and people watched 3.7 s of 31 s (12%). No saves or shares yet: the opening needs a stronger first line.",
-   "views": 56,
-   "reach": 46,
+   "views": 57,
+   "reach": 47,
    "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 3.7,
-   "past3s": 28.8
+   "avgWatch": 3.6,
+   "past3s": 28.3
   },
   {
    "key": "DfbVCFCAvTv",
@@ -462,6 +462,11 @@ window.REPORT = {
   {
    "d": "2026-11-22",
    "views": 2,
+   "reach": 1
+  },
+  {
+   "d": "2026-11-23",
+   "views": 3,
    "reach": 1
   }
  ],
