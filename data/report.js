@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-24T14:43+05:30",
+ "updated": "2026-11-24T17:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 28,
@@ -8,7 +8,7 @@ window.REPORT = {
  },
  "totals": {
   "views": 2359,
-  "reach": 1923,
+  "reach": 1924,
   "likes": 124,
   "comments": 0,
   "saves": 6,
@@ -26,7 +26,7 @@ window.REPORT = {
    "verdict": "Weak hook",
    "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 28 views after three days; only 21% got past 3 seconds and people watched 2.7 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone: cut straight to the first problem next time.",
    "views": 28,
-   "reach": 23,
+   "reach": 24,
    "likes": 4,
    "comments": 0,
    "saves": 0,
