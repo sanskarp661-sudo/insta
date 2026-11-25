@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-25T08:42+05:30",
+ "updated": "2026-11-25T11:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 28,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2362,
-  "reach": 1925,
+  "views": 2372,
+  "reach": 1932,
   "likes": 126,
   "comments": 0,
   "saves": 6,
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 50.6,
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "Weak hook",
-   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 30 views after five days; only 20% got past 3 seconds and people watched 2.9 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone: cut straight to the first problem next time.",
-   "views": 30,
-   "reach": 24,
+   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 34 views after six days; only 23% got past 3 seconds and people watched 4.8 s of 50.6 s. The opening is not holding people: cut straight to the first problem next time.",
+   "views": 34,
+   "reach": 25,
    "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 2.9,
-   "past3s": 20.0
+   "avgWatch": 4.8,
+   "past3s": 23.1
   },
   {
    "key": "Df7aHefCHJ0",
@@ -42,16 +42,16 @@ window.REPORT = {
    "thumb": "",
    "duration": 60.6,
    "caption": "Purani customer ko yaad rakho, wapas aayegi. 👗",
-   "verdict": "First day",
-   "note": "Posted Thursday at 9 pm. 56 views, 29% past 3 seconds and 7.0 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
-   "views": 58,
-   "reach": 47,
+   "verdict": "Good hold, low reach",
+   "note": "Posted Thursday at 9 pm. 60 views after six days, 31% past 3 seconds and 7.9 s average watch, the best hold since Salon, but it runs 61 s, our longest, and reach stopped at 48.",
+   "views": 60,
+   "reach": 48,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 6.7,
-   "past3s": 29.8
+   "avgWatch": 7.9,
+   "past3s": 31.2
   },
   {
    "key": "Df2QjzfExPF",
@@ -61,16 +61,16 @@ window.REPORT = {
    "thumb": "",
    "duration": 30.5,
    "caption": "Aapka clinic 8 baje band hota hai, lekin patient ki requirement 24/7 hoti hai. 🕒",
-   "verdict": "First day",
-   "note": "Posted Tuesday at 9 pm. 15 views after 4 days; past 3 seconds is 17% and average watch 5.6 s, but reach stayed tiny. The hook did not travel.",
-   "views": 16,
-   "reach": 14,
+   "verdict": "Low reach",
+   "note": "Posted Tuesday at 9 pm. 17 views after eight days; past 3 seconds is 21% and average watch 5.2 s, but reach stayed tiny. The hook did not travel.",
+   "views": 17,
+   "reach": 15,
    "likes": 3,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.3,
-   "past3s": 15.4
+   "avgWatch": 5.2,
+   "past3s": 21.4
   },
   {
    "key": "DfwMVsTjbmW",
@@ -82,14 +82,14 @@ window.REPORT = {
    "caption": "Lead 2 baje aaya. Call 5 baje gaya. 🏢💸",
    "verdict": "Weak hook",
    "note": "60 views after six days, only 23.6% got past 3 seconds (in the bottom half) and people watched 5.5 s of 36.9 s. Views have nearly stopped: the opening is losing people.",
-   "views": 60,
-   "reach": 50,
+   "views": 61,
+   "reach": 51,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.5,
-   "past3s": 23.6
+   "avgWatch": 5.4,
+   "past3s": 23.2
   },
   {
    "key": "Dfr9X1IAL_5",
@@ -101,14 +101,14 @@ window.REPORT = {
    "caption": "₹50,000 ka order... tune ya maine? 😱",
    "verdict": "Average hook, first day",
    "note": "131 views after four days, 35.8% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
-   "views": 133,
-   "reach": 120,
+   "views": 134,
+   "reach": 121,
    "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 0,
    "avgWatch": 5.0,
-   "past3s": 36.1
+   "past3s": 35.8
   },
   {
    "key": "DfpYhuijOnS",
@@ -120,14 +120,14 @@ window.REPORT = {
    "caption": "Raat 11 baje bhi diary ka total match nahi hota? 📒",
    "verdict": "Good hook, short works",
    "note": "Shortest reel so far (19 s). 159 views after nine days, 42.4% got past 3 seconds (second best after Salon) and people watched 4.2 s of 19 s (23%). No saves or shares yet.",
-   "views": 159,
-   "reach": 139,
+   "views": 160,
+   "reach": 140,
    "likes": 6,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 4.2,
-   "past3s": 42.4
+   "past3s": 42.1
   },
   {
    "key": "Dfjzp64E4jP",
@@ -140,7 +140,7 @@ window.REPORT = {
    "verdict": "Weak start",
    "note": "First website-only reel. 55 views after a week, 29.4% got past 3 seconds and people watched 3.7 s of 31 s (12%). No saves or shares yet: the opening needs a stronger first line.",
    "views": 57,
-   "reach": 47,
+   "reach": 48,
    "likes": 5,
    "comments": 0,
    "saves": 0,
@@ -479,7 +479,7 @@ window.REPORT = {
   {
    "sev": "high",
    "title": "Most people swipe away in the first 3 seconds",
-   "data": "Only 16% to 46% of viewers got past 3 seconds. Owner ya sales team (16%), Brand reveal, Data entry clerk and Clinic (18%) are the weakest, while Salon reached 46% and Purani diary 43%.",
+   "data": "Only 16% to 46% of viewers got past 3 seconds. Owner ya sales team (16%), Brand reveal and Data entry clerk (18%) are the weakest, while Salon reached 46% and Purani diary 43%.",
    "fix": "Open on the problem moment, never a logo or setup. Big readable text in frame 1, and the first spoken line under 2 seconds. Copy what Salon (46%), Purani diary (43%) and Sleep Tax (39%) did, which are the best."
   },
   {
@@ -503,7 +503,7 @@ window.REPORT = {
   {
    "sev": "medium",
    "title": "Too many reels on the same day",
-   "data": "Two reels went up on 3, 5 and 19 Nov, and three on 6 Nov. The later one usually gets less: on 19 Nov the boutique reel has 53 views and the coaching reel, posted 30 minutes later, only 21. Salon, alone on 7 Nov, got the best hook of all.",
+   "data": "Two reels went up on 3, 5 and 19 Nov, and three on 6 Nov. The later one usually gets less: on 19 Nov the boutique reel has 60 views and the coaching reel, posted 30 minutes later, only 34. Salon, alone on 7 Nov, got the best hook of all.",
    "fix": "One reel a day at most, 4 to 5 a week, at a fixed time. Use Trial Reels to test hooks on non-followers first."
   },
   {
