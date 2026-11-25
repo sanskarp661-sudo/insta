@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-24T17:42+05:30",
+ "updated": "2026-11-25T06:36+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 28,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 18
  },
  "totals": {
-  "views": 2359,
-  "reach": 1924,
-  "likes": 124,
+  "views": 2362,
+  "reach": 1925,
+  "likes": 126,
   "comments": 0,
   "saves": 6,
   "shares": 28
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 50.6,
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "Weak hook",
-   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 28 views after three days; only 21% got past 3 seconds and people watched 2.7 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone: cut straight to the first problem next time.",
-   "views": 28,
+   "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 30 views after five days; only 20% got past 3 seconds and people watched 2.9 s of 50.6 s, the shortest watch of any reel. The opening is not holding anyone: cut straight to the first problem next time.",
+   "views": 30,
    "reach": 24,
-   "likes": 4,
+   "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 2.8,
-   "past3s": 20.8
+   "avgWatch": 2.9,
+   "past3s": 20.0
   },
   {
    "key": "Df7aHefCHJ0",
@@ -44,14 +44,14 @@ window.REPORT = {
    "caption": "Purani customer ko yaad rakho, wapas aayegi. 👗",
    "verdict": "First day",
    "note": "Posted Thursday at 9 pm. 56 views, 29% past 3 seconds and 7.0 s average watch, the best hold of this week, but it runs 61 s, our longest. Judge after 48 hours.",
-   "views": 57,
-   "reach": 46,
-   "likes": 3,
+   "views": 58,
+   "reach": 47,
+   "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 6.8,
-   "past3s": 30.4
+   "avgWatch": 6.7,
+   "past3s": 29.8
   },
   {
    "key": "Df2QjzfExPF",
@@ -468,6 +468,11 @@ window.REPORT = {
    "d": "2026-11-23",
    "views": 3,
    "reach": 1
+  },
+  {
+   "d": "2026-11-24",
+   "views": 5,
+   "reach": 2
   }
  ],
  "wrong": [
