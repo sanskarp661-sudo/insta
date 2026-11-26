@@ -1,20 +1,39 @@
 window.REPORT = {
- "updated": "2026-11-26T17:43+05:30",
+ "updated": "2026-11-26T22:46+05:30",
  "account": {
   "handle": "mosaicengine",
-  "followers": 28,
-  "following": 0,
-  "reels": 19
+  "followers": 29,
+  "following": 1,
+  "reels": 20
  },
  "totals": {
-  "views": 2506,
-  "reach": 2046,
-  "likes": 128,
-  "comments": 0,
-  "saves": 6,
-  "shares": 28
+  "views": 2662,
+  "reach": 2166,
+  "likes": 133,
+  "comments": 3,
+  "saves": 7,
+  "shares": 29
  },
  "reels": [
+  {
+   "key": "DgNHjXOibvt",
+   "title": "Restaurant POS: order, kitchen, bill",
+   "url": "https://www.instagram.com/reel/DgNHjXOibvt/",
+   "posted": "2026-11-26T18:06",
+   "thumb": "",
+   "duration": 77.2,
+   "caption": "Order 2 ka, kitchen tak pahuncha 1 ka... aur bill 20 minute late. 😬 Weekend pe har restaurant owner ka yahi scene hai.",
+   "verdict": "Early start",
+   "note": "Posted Thursday at 6 pm. 146 views and 116 reach in the first hours, plus the first 3 comments on the account and a save and a share; 29% got past 3 seconds and people watched 8.6 s of 77 s, so tighten the first 3 seconds.",
+   "views": 146,
+   "reach": 116,
+   "likes": 3,
+   "comments": 3,
+   "saves": 1,
+   "shares": 1,
+   "avgWatch": 8.6,
+   "past3s": 29.1
+  },
   {
    "key": "DgK260zqyDr",
    "title": "Hotel direct booking website",
@@ -25,14 +44,14 @@ window.REPORT = {
    "caption": "Customer ne aapka hotel dekha, photos pasand aayi... phir OTA app pe chala gaya. 😬",
    "verdict": "Early start",
    "note": "Posted Wednesday at 9 pm. 128 views and 110 reach in the first day, the best start since Order blame; 34% got past 3 seconds and people watched 5.2 s of 60 s, so the opening works but most leave long before the free demo offer.",
-   "views": 134,
+   "views": 136,
    "reach": 114,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 5.4,
-   "past3s": 33.6
+   "past3s": 32.5
   },
   {
    "key": "Df7dlCokdu4",
@@ -44,14 +63,14 @@ window.REPORT = {
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "Weak hook",
    "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 34 views after six days; only 23% got past 3 seconds and people watched 4.8 s of 50.6 s. The opening is not holding people: cut straight to the first problem next time.",
-   "views": 34,
-   "reach": 25,
-   "likes": 5,
+   "views": 37,
+   "reach": 26,
+   "likes": 6,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.7,
-   "past3s": 23.1
+   "avgWatch": 4.6,
+   "past3s": 21.4
   },
   {
    "key": "Df7aHefCHJ0",
@@ -63,14 +82,14 @@ window.REPORT = {
    "caption": "Purani customer ko yaad rakho, wapas aayegi. 👗",
    "verdict": "Good hold, low reach",
    "note": "Posted Thursday at 9 pm. 60 views after six days, 31% past 3 seconds and 7.9 s average watch, the best hold since Salon, but it runs 61 s, our longest, and reach stopped at 48.",
-   "views": 60,
+   "views": 61,
    "reach": 48,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 7.7,
-   "past3s": 31.2
+   "avgWatch": 7.4,
+   "past3s": 30.6
   },
   {
    "key": "Df2QjzfExPF",
@@ -88,7 +107,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.2,
+   "avgWatch": 5.1,
    "past3s": 21.4
   },
   {
@@ -101,14 +120,14 @@ window.REPORT = {
    "caption": "Lead 2 baje aaya. Call 5 baje gaya. 🏢💸",
    "verdict": "Weak hook",
    "note": "60 views after six days, only 23.6% got past 3 seconds (in the bottom half) and people watched 5.5 s of 36.9 s. Views have nearly stopped: the opening is losing people.",
-   "views": 61,
-   "reach": 51,
-   "likes": 4,
+   "views": 62,
+   "reach": 52,
+   "likes": 5,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 5.4,
-   "past3s": 23.2
+   "past3s": 22.8
   },
   {
    "key": "Dfr9X1IAL_5",
@@ -120,14 +139,14 @@ window.REPORT = {
    "caption": "₹50,000 ka order... tune ya maine? 😱",
    "verdict": "Average hook, first day",
    "note": "131 views after four days, 35.8% got past 3 seconds (middle of the pack) and people watched 5.0 s of 31 s (16%). 1 save, no shares yet.",
-   "views": 134,
-   "reach": 121,
+   "views": 135,
+   "reach": 122,
    "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 0,
-   "avgWatch": 5.0,
-   "past3s": 35.8
+   "avgWatch": 4.9,
+   "past3s": 35.5
   },
   {
    "key": "DfpYhuijOnS",
@@ -196,14 +215,14 @@ window.REPORT = {
    "caption": "Fees maangi toh member naraz. Na maangi toh gym ka nuksaan. 😶",
    "verdict": "Low reach, weak hook",
    "note": "76 views after 11 days: it went up at 7:35 pm, the third reel that day. 26.9% got past 3 seconds and people watched 4.7 s of 33 s (14%). No shares or saves.",
-   "views": 77,
-   "reach": 64,
+   "views": 79,
+   "reach": 65,
    "likes": 4,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.7,
-   "past3s": 26.5
+   "avgWatch": 5.2,
+   "past3s": 27.5
   },
   {
    "key": "DfYwU1rCTg7",
@@ -240,7 +259,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.8,
+   "avgWatch": 4.7,
    "past3s": 24.4
   },
   {
@@ -497,6 +516,11 @@ window.REPORT = {
    "d": "2026-11-25",
    "views": 133,
    "reach": 114
+  },
+  {
+   "d": "2026-11-26",
+   "views": 159,
+   "reach": 116
   }
  ],
  "wrong": [
