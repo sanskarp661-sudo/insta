@@ -1,20 +1,39 @@
 window.REPORT = {
- "updated": "2026-11-25T20:42+05:30",
+ "updated": "2026-11-26T08:43+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 28,
   "following": 0,
-  "reels": 18
+  "reels": 19
  },
  "totals": {
-  "views": 2372,
-  "reach": 1932,
-  "likes": 126,
+  "views": 2500,
+  "reach": 2042,
+  "likes": 128,
   "comments": 0,
   "saves": 6,
   "shares": 28
  },
  "reels": [
+  {
+   "key": "DgK260zqyDr",
+   "title": "Hotel direct booking website",
+   "url": "https://www.instagram.com/reel/DgK260zqyDr/",
+   "posted": "2026-11-25T21:02",
+   "thumb": "",
+   "duration": 59.9,
+   "caption": "Customer ne aapka hotel dekha, photos pasand aayi... phir OTA app pe chala gaya. 😬",
+   "verdict": "Early start",
+   "note": "Posted Wednesday at 9 pm. 128 views and 110 reach in the first day, the best start since Order blame; 34% got past 3 seconds and people watched 5.2 s of 60 s, so the opening works but most leave long before the free demo offer.",
+   "views": 128,
+   "reach": 110,
+   "likes": 2,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "avgWatch": 5.2,
+   "past3s": 33.9
+  },
   {
    "key": "Df7dlCokdu4",
    "title": "Coaching website: 3 pages",
@@ -31,7 +50,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.8,
+   "avgWatch": 4.7,
    "past3s": 23.1
   },
   {
@@ -50,7 +69,7 @@ window.REPORT = {
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 7.9,
+   "avgWatch": 7.7,
    "past3s": 31.2
   },
   {
@@ -473,6 +492,11 @@ window.REPORT = {
    "d": "2026-11-24",
    "views": 23,
    "reach": 3
+  },
+  {
+   "d": "2026-11-25",
+   "views": 129,
+   "reach": 110
   }
  ],
  "wrong": [
