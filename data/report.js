@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-26T14:43+05:30",
+ "updated": "2026-11-26T17:43+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 28,
@@ -7,7 +7,7 @@ window.REPORT = {
   "reels": 19
  },
  "totals": {
-  "views": 2504,
+  "views": 2506,
   "reach": 2046,
   "likes": 128,
   "comments": 0,
@@ -25,14 +25,14 @@ window.REPORT = {
    "caption": "Customer ne aapka hotel dekha, photos pasand aayi... phir OTA app pe chala gaya. 😬",
    "verdict": "Early start",
    "note": "Posted Wednesday at 9 pm. 128 views and 110 reach in the first day, the best start since Order blame; 34% got past 3 seconds and people watched 5.2 s of 60 s, so the opening works but most leave long before the free demo offer.",
-   "views": 132,
+   "views": 134,
    "reach": 114,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 5.4,
-   "past3s": 33.0
+   "past3s": 33.6
   },
   {
    "key": "Df7dlCokdu4",
