@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-27T14:43+05:30",
+ "updated": "2026-11-27T17:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 30,
@@ -7,9 +7,9 @@ window.REPORT = {
   "reels": 20
  },
  "totals": {
-  "views": 2706,
-  "reach": 2207,
-  "likes": 133,
+  "views": 2722,
+  "reach": 2216,
+  "likes": 134,
   "comments": 3,
   "saves": 8,
   "shares": 29
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 77.2,
    "caption": "Order 2 ka, kitchen tak pahuncha 1 ka... aur bill 20 minute late. 😬 Weekend pe har restaurant owner ka yahi scene hai.",
    "verdict": "Early start",
-   "note": "Posted Thursday at 6 pm. 190 views and 157 reach so far, the first 3 comments on the account, 2 saves and a share; 28% got past 3 seconds and people watched 8.3 s of 77 s, so tighten the first 3 seconds.",
-   "views": 190,
-   "reach": 157,
-   "likes": 3,
+   "note": "Posted Thursday at 6 pm. 200 views and 164 reach so far, the first 3 comments on the account, 2 saves and a share; 28% got past 3 seconds and people watched 8.6 s of 77 s, so tighten the first 3 seconds.",
+   "views": 200,
+   "reach": 164,
+   "likes": 4,
    "comments": 3,
    "saves": 2,
    "shares": 1,
-   "avgWatch": 8.3,
-   "past3s": 28.0
+   "avgWatch": 8.6,
+   "past3s": 28.4
   },
   {
    "key": "DgK260zqyDr",
@@ -44,14 +44,14 @@ window.REPORT = {
    "caption": "Customer ne aapka hotel dekha, photos pasand aayi... phir OTA app pe chala gaya. 😬",
    "verdict": "Early start",
    "note": "Posted Wednesday at 9 pm. 136 views and 114 reach so far, one of the best starts since Order blame; 32% got past 3 seconds and people watched 5.4 s of 60 s, so the opening works but most leave long before the free demo offer.",
-   "views": 136,
-   "reach": 114,
+   "views": 137,
+   "reach": 115,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 5.4,
-   "past3s": 32.5
+   "avgWatch": 5.3,
+   "past3s": 32.2
   },
   {
    "key": "Df7dlCokdu4",
@@ -63,14 +63,14 @@ window.REPORT = {
    "caption": "Coaching ki website? Sirf 3 pages chahiye. 🎓",
    "verdict": "Weak hook",
    "note": "Posted Thursday at 9:32 pm, 30 minutes after the boutique reel. 34 views after six days; only 23% got past 3 seconds and people watched 4.8 s of 50.6 s. The opening is not holding people: cut straight to the first problem next time.",
-   "views": 37,
+   "views": 38,
    "reach": 26,
    "likes": 6,
    "comments": 0,
    "saves": 0,
    "shares": 0,
-   "avgWatch": 4.6,
-   "past3s": 21.4
+   "avgWatch": 4.5,
+   "past3s": 20.7
   },
   {
    "key": "Df7aHefCHJ0",
@@ -158,14 +158,14 @@ window.REPORT = {
    "caption": "Raat 11 baje bhi diary ka total match nahi hota? 📒",
    "verdict": "Good hook, short works",
    "note": "Shortest reel so far (19 s). 159 views after nine days, 42.4% got past 3 seconds (second best after Salon) and people watched 4.2 s of 19 s (23%). No saves or shares yet.",
-   "views": 160,
-   "reach": 140,
+   "views": 161,
+   "reach": 141,
    "likes": 6,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 4.2,
-   "past3s": 42.1
+   "past3s": 41.8
   },
   {
    "key": "Dfjzp64E4jP",
@@ -272,14 +272,14 @@ window.REPORT = {
    "caption": "Raat 11 baje: \"Bhaiya, price kya hai?\" 📱",
    "verdict": "Best watch time",
    "note": "39.1% got past 3 seconds and people watched 10.7 s of 35.5 s (30%), still the best watch time. Only Salon and the new Purani diary reel have a better hook.",
-   "views": 139,
+   "views": 140,
    "reach": 115,
    "likes": 5,
    "comments": 0,
    "saves": 1,
    "shares": 1,
-   "avgWatch": 10.6,
-   "past3s": 38.7
+   "avgWatch": 10.5,
+   "past3s": 38.3
   },
   {
    "key": "DfWO82Fkucv",
@@ -291,14 +291,14 @@ window.REPORT = {
    "caption": "Aap business ke owner ho, ya apni sales team ke supplier? 🚩",
    "verdict": "Weakest start",
    "note": "16.1% got past 3 seconds, still the lowest of all reels, and 71 views. It went up the same day as Sleep Tax, which took the reach.",
-   "views": 72,
+   "views": 73,
    "reach": 51,
    "likes": 7,
    "comments": 0,
    "saves": 0,
    "shares": 2,
-   "avgWatch": 4.7,
-   "past3s": 15.8
+   "avgWatch": 4.6,
+   "past3s": 15.5
   },
   {
    "key": "DfU1nYaIDPh",
@@ -326,14 +326,14 @@ window.REPORT = {
    "url": "https://www.instagram.com/reel/DfTtGX5oI7h/",
    "thumb": "img/reels/owner-ka-phone.jpg",
    "duration": 45.5,
-   "views": 292,
+   "views": 293,
    "reach": 239,
    "likes": 7,
    "comments": 0,
    "saves": 1,
    "shares": 4,
    "avgWatch": 7.8,
-   "past3s": 36.0,
+   "past3s": 35.9,
    "caption": "Family: \"Thoda phone side mein rakho.\" Owner: \"Bas ek minute... ek order aaya hai.\"",
    "verdict": "Strong hook",
    "note": "36.1% got past 3 seconds, behind Salon, Purani diary and Sleep Tax, and 288 views, the second most. The relatable dialogue opening works."
