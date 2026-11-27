@@ -1,14 +1,14 @@
 window.REPORT = {
- "updated": "2026-11-26T22:46+05:30",
+ "updated": "2026-11-27T08:43+05:30",
  "account": {
   "handle": "mosaicengine",
-  "followers": 29,
+  "followers": 30,
   "following": 1,
   "reels": 20
  },
  "totals": {
-  "views": 2662,
-  "reach": 2166,
+  "views": 2688,
+  "reach": 2192,
   "likes": 133,
   "comments": 3,
   "saves": 7,
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 77.2,
    "caption": "Order 2 ka, kitchen tak pahuncha 1 ka... aur bill 20 minute late. 😬 Weekend pe har restaurant owner ka yahi scene hai.",
    "verdict": "Early start",
-   "note": "Posted Thursday at 6 pm. 146 views and 116 reach in the first hours, plus the first 3 comments on the account and a save and a share; 29% got past 3 seconds and people watched 8.6 s of 77 s, so tighten the first 3 seconds.",
-   "views": 146,
-   "reach": 116,
+   "note": "Posted Thursday at 6 pm. 172 views and 142 reach in its first day, plus the first 3 comments on the account and a save and a share; 27% got past 3 seconds and people watched 8.5 s of 77 s, so tighten the first 3 seconds.",
+   "views": 172,
+   "reach": 142,
    "likes": 3,
    "comments": 3,
    "saves": 1,
    "shares": 1,
-   "avgWatch": 8.6,
-   "past3s": 29.1
+   "avgWatch": 8.5,
+   "past3s": 27.2
   },
   {
    "key": "DgK260zqyDr",
@@ -43,7 +43,7 @@ window.REPORT = {
    "duration": 59.9,
    "caption": "Customer ne aapka hotel dekha, photos pasand aayi... phir OTA app pe chala gaya. 😬",
    "verdict": "Early start",
-   "note": "Posted Wednesday at 9 pm. 128 views and 110 reach in the first day, the best start since Order blame; 34% got past 3 seconds and people watched 5.2 s of 60 s, so the opening works but most leave long before the free demo offer.",
+   "note": "Posted Wednesday at 9 pm. 136 views and 114 reach so far, one of the best starts since Order blame; 32% got past 3 seconds and people watched 5.4 s of 60 s, so the opening works but most leave long before the free demo offer.",
    "views": 136,
    "reach": 114,
    "likes": 2,
@@ -519,8 +519,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-26",
-   "views": 159,
-   "reach": 116
+   "views": 188,
+   "reach": 142
   }
  ],
  "wrong": [
