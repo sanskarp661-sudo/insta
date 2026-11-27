@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-27T17:42+05:30",
+ "updated": "2026-11-27T20:43+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 30,
@@ -7,8 +7,8 @@ window.REPORT = {
   "reels": 20
  },
  "totals": {
-  "views": 2722,
-  "reach": 2216,
+  "views": 2729,
+  "reach": 2219,
   "likes": 134,
   "comments": 3,
   "saves": 8,
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 77.2,
    "caption": "Order 2 ka, kitchen tak pahuncha 1 ka... aur bill 20 minute late. 😬 Weekend pe har restaurant owner ka yahi scene hai.",
    "verdict": "Early start",
-   "note": "Posted Thursday at 6 pm. 200 views and 164 reach so far, the first 3 comments on the account, 2 saves and a share; 28% got past 3 seconds and people watched 8.6 s of 77 s, so tighten the first 3 seconds.",
-   "views": 200,
-   "reach": 164,
+   "note": "Posted Thursday at 6 pm. 207 views and 167 reach so far, the first 3 comments on the account, 2 saves and a share; 28% got past 3 seconds and people watched 8.5 s of 77 s, so tighten the first 3 seconds.",
+   "views": 207,
+   "reach": 167,
    "likes": 4,
    "comments": 3,
    "saves": 2,
    "shares": 1,
-   "avgWatch": 8.6,
-   "past3s": 28.4
+   "avgWatch": 8.5,
+   "past3s": 28.1
   },
   {
    "key": "DgK260zqyDr",
@@ -521,6 +521,11 @@ window.REPORT = {
    "d": "2026-11-26",
    "views": 203,
    "reach": 156
+  },
+  {
+   "d": "2026-11-27",
+   "views": 18,
+   "reach": 8
   }
  ],
  "wrong": [
