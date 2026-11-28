@@ -1,5 +1,5 @@
 window.REPORT = {
- "updated": "2026-11-28T11:43+05:30",
+ "updated": "2026-11-28T14:43+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 30,
@@ -7,12 +7,12 @@ window.REPORT = {
   "reels": 21
  },
  "totals": {
-  "views": 2775,
-  "reach": 2255,
+  "views": 2804,
+  "reach": 2280,
   "likes": 135,
   "comments": 3,
-  "saves": 9,
-  "shares": 29
+  "saves": 10,
+  "shares": 30
  },
  "reels": [
   {
@@ -24,15 +24,15 @@ window.REPORT = {
    "duration": 54.8,
    "caption": "50 MB ka PDF portfolio bheja... aur client ne khola bhi nahi. 😬",
    "verdict": "Early start",
-   "note": "Posted Friday at 9 pm. 44 views and 34 reach in the first day, a slow start next to the hotel and restaurant reels; 22% got past 3 seconds and people watched 5.3 s, so the PDF opening is not stopping the scroll.",
-   "views": 44,
-   "reach": 34,
+   "note": "Posted Friday at 9 pm. 73 views and 59 reach after a day, behind the hotel and restaurant reels. The hold has improved to 30% past 3 seconds and 7.9 s of 55 s watched, and it already has 2 saves and its first share, so the people it reaches find it useful.",
+   "views": 73,
+   "reach": 59,
    "likes": 1,
    "comments": 0,
-   "saves": 1,
-   "shares": 0,
-   "avgWatch": 5.3,
-   "past3s": 22.2
+   "saves": 2,
+   "shares": 1,
+   "avgWatch": 7.9,
+   "past3s": 29.5
   },
   {
    "key": "DgNHjXOibvt",
@@ -543,8 +543,13 @@ window.REPORT = {
   },
   {
    "d": "2026-11-27",
-   "views": 74,
-   "reach": 45
+   "views": 100,
+   "reach": 67
+  },
+  {
+   "d": "2026-11-28",
+   "views": 3,
+   "reach": 3
   }
  ],
  "wrong": [
