@@ -1,20 +1,39 @@
 window.REPORT = {
- "updated": "2026-11-27T20:43+05:30",
+ "updated": "2026-11-28T08:42+05:30",
  "account": {
   "handle": "mosaicengine",
   "followers": 30,
   "following": 1,
-  "reels": 20
+  "reels": 21
  },
  "totals": {
-  "views": 2729,
-  "reach": 2219,
-  "likes": 134,
+  "views": 2775,
+  "reach": 2255,
+  "likes": 135,
   "comments": 3,
-  "saves": 8,
+  "saves": 9,
   "shares": 29
  },
  "reels": [
+  {
+   "key": "DgQAj7fCiUP",
+   "title": "Interior client portal",
+   "url": "https://www.instagram.com/reel/DgQAj7fCiUP/",
+   "posted": "2026-11-27T21:02",
+   "thumb": "",
+   "duration": 54.8,
+   "caption": "50 MB ka PDF portfolio bheja... aur client ne khola bhi nahi. 😬",
+   "verdict": "Early start",
+   "note": "Posted Friday at 9 pm. 44 views and 34 reach in the first day, a slow start next to the hotel and restaurant reels; 22% got past 3 seconds and people watched 5.3 s, so the PDF opening is not stopping the scroll.",
+   "views": 44,
+   "reach": 34,
+   "likes": 1,
+   "comments": 0,
+   "saves": 1,
+   "shares": 0,
+   "avgWatch": 5.3,
+   "past3s": 22.2
+  },
   {
    "key": "DgNHjXOibvt",
    "title": "Restaurant POS: order, kitchen, bill",
@@ -25,14 +44,14 @@ window.REPORT = {
    "caption": "Order 2 ka, kitchen tak pahuncha 1 ka... aur bill 20 minute late. 😬 Weekend pe har restaurant owner ka yahi scene hai.",
    "verdict": "Early start",
    "note": "Posted Thursday at 6 pm. 207 views and 167 reach so far, the first 3 comments on the account, 2 saves and a share; 28% got past 3 seconds and people watched 8.5 s of 77 s, so tighten the first 3 seconds.",
-   "views": 207,
-   "reach": 167,
+   "views": 208,
+   "reach": 168,
    "likes": 4,
    "comments": 3,
    "saves": 2,
    "shares": 1,
-   "avgWatch": 8.5,
-   "past3s": 28.1
+   "avgWatch": 8.6,
+   "past3s": 27.9
   },
   {
    "key": "DgK260zqyDr",
@@ -44,14 +63,14 @@ window.REPORT = {
    "caption": "Customer ne aapka hotel dekha, photos pasand aayi... phir OTA app pe chala gaya. 😬",
    "verdict": "Early start",
    "note": "Posted Wednesday at 9 pm. 136 views and 114 reach so far, one of the best starts since Order blame; 32% got past 3 seconds and people watched 5.4 s of 60 s, so the opening works but most leave long before the free demo offer.",
-   "views": 137,
-   "reach": 115,
+   "views": 138,
+   "reach": 116,
    "likes": 2,
    "comments": 0,
    "saves": 0,
    "shares": 0,
    "avgWatch": 5.3,
-   "past3s": 32.2
+   "past3s": 31.9
   },
   {
    "key": "Df7dlCokdu4",
@@ -524,8 +543,8 @@ window.REPORT = {
   },
   {
    "d": "2026-11-27",
-   "views": 18,
-   "reach": 8
+   "views": 74,
+   "reach": 45
   }
  ],
  "wrong": [
